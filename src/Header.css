@@ -1,0 +1,75 @@
+/* Header.css */
+
+.site-header {
+  width: 100%;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center; /* This centers the navigation div */
+  align-items: center;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1200px; /* Optional: You can re-establish a max-width if desired */
+  margin: auto; /* This will center the content */
+}
+
+.nav-left,
+.nav-right {
+  display: flex;
+  align-items: center;
+}
+
+.navigation a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.navigation a:hover {
+  color: #555;
+}
+
+.site-logo {
+  max-height: 130px; /* Adjust size as needed */
+}
+
+/* @media (min-width: 768px) {
+  .site-logo {
+    max-height: 100px; 
+  }
+} */
+
+.preorder-button {
+  padding: 10px 20px;
+  background-color: #4a613b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.preorder-button:hover {
+  background-color: #688059;
+}
+
+.social-icon {
+  color: #333; /* Default icon color, change as required */
+  margin-right: 15px; /* Spacing between icons */
+  font-size: 20px; /* Icon size, adjust as needed */
+}
+
+.social-icon:hover {
+  color: #555; /* Color on hover */
+}
+
+/* Add any additional styles based on the specifics of your design */
