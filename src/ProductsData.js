@@ -60,6 +60,15 @@ import twilight_serenity_alpine_whispers_6_img from "./images/Twilight Serenity 
 import twilight_serenity_alpine_whispers_7_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_7.jpg";
 import twilight_serenity_alpine_whispers_8_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_8.jpg";
 import twilight_serenity_alpine_whispers_9_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_9.jpg";
+import luminous_peaks_mornings_first_light_1_img from "./images/Luminous Peaks Mornings First Light/luminous_peaks_mornings_first_light_1.jpg";
+import luminous_peaks_mornings_first_light_2_img from "./images/Luminous Peaks Mornings First Light/luminous_peaks_mornings_first_light_2.jpg";
+import luminous_peaks_mornings_first_light_3_img from "./images/Luminous Peaks Mornings First Light/luminous_peaks_mornings_first_light_3.jpg";
+import luminous_peaks_mornings_first_light_4_img from "./images/Luminous Peaks Mornings First Light/luminous_peaks_mornings_first_light_4.jpg";
+import luminous_peaks_mornings_first_light_5_img from "./images/Luminous Peaks Mornings First Light/luminous_peaks_mornings_first_light_5.jpg";
+import luminous_peaks_mornings_first_light_6_img from "./images/Luminous Peaks Mornings First Light/luminous_peaks_mornings_first_light_6.jpg";
+import luminous_peaks_mornings_first_light_7_img from "./images/Luminous Peaks Mornings First Light/luminous_peaks_mornings_first_light_7.jpg";
+import luminous_peaks_mornings_first_light_8_img from "./images/Luminous Peaks Mornings First Light/luminous_peaks_mornings_first_light_8.jpg";
+import luminous_peaks_mornings_first_light_9_img from "./images/Luminous Peaks Mornings First Light/luminous_peaks_mornings_first_light_9.jpg";
 
 export const initialProducts = [
   // Focaccia with Olives
@@ -236,6 +245,28 @@ Care Instructions: To ensure the longevity of "Autumn Majesty: Alpine Sunrise," 
     ],
     details:
       'Medium: Oil on canvas\nDimensions: 46" x 32" (117cm x 81cm)\nFrame: Elegant white frame with intricate details that enhance the painting\'s beauty\nTechnique: A blend of smooth gradients and detailed brushwork to capture the soft light of dusk\nPalette: Cool tones of blue and gray balanced with warm amber and gold of the setting sun\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Display in indirect lighting to maintain the vibrancy of the colors. Dust with a soft cloth; avoid moisture and cleaning solutions.',
+    reviews: [],
+  },
+  {
+    id: 9,
+    title: "Luminous Peaks: Morning's First Light",
+    price: "$319.99",
+    description:
+      "Luminous Peaks: Morning's First Light is a stunning representation of the beauty of dawn in a mountainous landscape. The painting captures the moment the sun's rays breach the horizon, spilling golden light over the snow-covered peaks and casting a warm glow on the autumnal forest below. The sky, alive with dynamic cloud formations, adds a sense of drama to the quiet awakening of the day. This artwork is a tribute to the sublime beauty of nature, inviting the viewer to pause and appreciate the serene start of a new day.",
+    imgUrl: luminous_peaks_mornings_first_light_1_img,
+    images: [
+      luminous_peaks_mornings_first_light_1_img,
+      luminous_peaks_mornings_first_light_2_img,
+      luminous_peaks_mornings_first_light_3_img,
+      luminous_peaks_mornings_first_light_4_img,
+      luminous_peaks_mornings_first_light_5_img,
+      luminous_peaks_mornings_first_light_6_img,
+      luminous_peaks_mornings_first_light_7_img,
+      luminous_peaks_mornings_first_light_8_img,
+      luminous_peaks_mornings_first_light_9_img,
+    ],
+    details:
+      'Medium: Oil on canvas\nDimensions: 46" x 32" (117cm x 81cm)\nFrame: Classic white frame with decorative relief adding to the artwork\'s elegance\nTechnique: Skillful use of light and shadow to create a realistic depiction of the sunrise\nPalette: Warm tones of orange and yellow juxtaposed with the cool blues and whites of the snow, reflecting the warmth of the morning light\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Avoid direct sunlight to preserve the color integrity. Clean with a soft, dry cloth; handle with care to prevent scratches.',
     reviews: [],
   },
 ];
