@@ -26,6 +26,40 @@ import eternal_vigil_last_light_4_img from "./images/Eternal Vigil Last Light/et
 import eternal_vigil_last_light_5_img from "./images/Eternal Vigil Last Light/eternal_vigil_last_light_5.jpg";
 import eternal_vigil_last_light_6_img from "./images/Eternal Vigil Last Light/eternal_vigil_last_light_6.jpg";
 import eternal_vigil_last_light_7_img from "./images/Eternal Vigil Last Light/eternal_vigil_last_light_7.jpg";
+import celestial_mountains_dawns_radiance_1_img from "./images/Celestial Mountains Dawn's Radiance/celestial_mountains_dawns_radiance_1.jpg";
+import celestial_mountains_dawns_radiance_2_img from "./images/Celestial Mountains Dawn's Radiance/celestial_mountains_dawns_radiance_2.jpg";
+import celestial_mountains_dawns_radiance_3_img from "./images/Celestial Mountains Dawn's Radiance/celestial_mountains_dawns_radiance_3.jpg";
+import celestial_mountains_dawns_radiance_4_img from "./images/Celestial Mountains Dawn's Radiance/celestial_mountains_dawns_radiance_4.jpg";
+import celestial_mountains_dawns_radiance_5_img from "./images/Celestial Mountains Dawn's Radiance/celestial_mountains_dawns_radiance_5.jpg";
+import celestial_mountains_dawns_radiance_6_img from "./images/Celestial Mountains Dawn's Radiance/celestial_mountains_dawns_radiance_6.jpg";
+import celestial_mountains_dawns_radiance_7_img from "./images/Celestial Mountains Dawn's Radiance/celestial_mountains_dawns_radiance_7.jpg";
+import celestial_mountains_dawns_radiance_8_img from "./images/Celestial Mountains Dawn's Radiance/celestial_mountains_dawns_radiance_8.jpg";
+import celestial_mountains_dawns_radiance_9_img from "./images/Celestial Mountains Dawn's Radiance/celestial_mountains_dawns_radiance_9.jpg";
+import gothic_reverie_shadows_and_sentinels_1_img from "./images/Gothic Reverie Shadows and Sentinels/gothic_reverie_shadows_and_sentinels_1.jpg";
+import gothic_reverie_shadows_and_sentinels_2_img from "./images/Gothic Reverie Shadows and Sentinels/gothic_reverie_shadows_and_sentinels_2.jpg";
+import gothic_reverie_shadows_and_sentinels_3_img from "./images/Gothic Reverie Shadows and Sentinels/gothic_reverie_shadows_and_sentinels_3.jpg";
+import gothic_reverie_shadows_and_sentinels_4_img from "./images/Gothic Reverie Shadows and Sentinels/gothic_reverie_shadows_and_sentinels_4.jpg";
+import gothic_reverie_shadows_and_sentinels_5_img from "./images/Gothic Reverie Shadows and Sentinels/gothic_reverie_shadows_and_sentinels_5.jpg";
+import gothic_reverie_shadows_and_sentinels_6_img from "./images/Gothic Reverie Shadows and Sentinels/gothic_reverie_shadows_and_sentinels_6.jpg";
+import gothic_reverie_shadows_and_sentinels_7_img from "./images/Gothic Reverie Shadows and Sentinels/gothic_reverie_shadows_and_sentinels_7.jpg";
+import gothic_reverie_shadows_and_sentinels_8_img from "./images/Gothic Reverie Shadows and Sentinels/gothic_reverie_shadows_and_sentinels_8.jpg";
+import gothic_reverie_shadows_and_sentinels_9_img from "./images/Gothic Reverie Shadows and Sentinels/gothic_reverie_shadows_and_sentinels_9.jpg";
+import mystic_realms_veil_of_the_ancients_1_img from "./images/Mystic Realms Veil of the Ancients/mystic_realms_veil_of_the_ancients_1.jpg";
+import mystic_realms_veil_of_the_ancients_2_img from "./images/Mystic Realms Veil of the Ancients/mystic_realms_veil_of_the_ancients_2.jpg";
+import mystic_realms_veil_of_the_ancients_3_img from "./images/Mystic Realms Veil of the Ancients/mystic_realms_veil_of_the_ancients_3.jpg";
+import mystic_realms_veil_of_the_ancients_4_img from "./images/Mystic Realms Veil of the Ancients/mystic_realms_veil_of_the_ancients_4.jpg";
+import mystic_realms_veil_of_the_ancients_5_img from "./images/Mystic Realms Veil of the Ancients/mystic_realms_veil_of_the_ancients_5.jpg";
+import mystic_realms_veil_of_the_ancients_6_img from "./images/Mystic Realms Veil of the Ancients/mystic_realms_veil_of_the_ancients_6.jpg";
+import mystic_realms_veil_of_the_ancients_7_img from "./images/Mystic Realms Veil of the Ancients/mystic_realms_veil_of_the_ancients_7.jpg";
+import twilight_serenity_alpine_whispers_1_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_1.jpg";
+import twilight_serenity_alpine_whispers_2_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_2.jpg";
+import twilight_serenity_alpine_whispers_3_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_3.jpg";
+import twilight_serenity_alpine_whispers_4_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_4.jpg";
+import twilight_serenity_alpine_whispers_5_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_5.jpg";
+import twilight_serenity_alpine_whispers_6_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_6.jpg";
+import twilight_serenity_alpine_whispers_7_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_7.jpg";
+import twilight_serenity_alpine_whispers_8_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_8.jpg";
+import twilight_serenity_alpine_whispers_9_img from "./images/Twilight Serenity Alpine Whispers/twilight_serenity_alpine_whispers_9.jpg";
 
 export const initialProducts = [
   // Focaccia with Olives
@@ -104,18 +138,104 @@ Care Instructions: To ensure the longevity of "Autumn Majesty: Alpine Sunrise," 
     price: "$249.99",
     description:
       "Eternal Vigil: Last Light is a hauntingly beautiful painting that transports the observer to a mystical realm of ancient structures. The artwork depicts an enigmatic tree standing at the heart of a grand hall, casting a mystical glow that illuminates the surrounding gothic ruins. This piece evokes a sense of timeless wisdom and the eternal dance between light and darkness. The swirling sky and the textured walls of the ruins create a dynamic contrast that captures the imagination and invites contemplation on the enduring power of nature amidst human constructs.",
-    imgUrl: "eternal_vigil_last_light_1_img",
+    imgUrl: eternal_vigil_last_light_1_img,
     images: [
-      "eternal_vigil_last_light_1_img",
-      "eternal_vigil_last_light_2_img",
-      "eternal_vigil_last_light_3_img",
-      "eternal_vigil_last_light_4_img",
-      "eternal_vigil_last_light_5_img",
-      "eternal_vigil_last_light_6_img",
-      "eternal_vigil_last_light_7_img",
+      eternal_vigil_last_light_1_img,
+      eternal_vigil_last_light_2_img,
+      eternal_vigil_last_light_3_img,
+      eternal_vigil_last_light_4_img,
+      eternal_vigil_last_light_5_img,
+      eternal_vigil_last_light_6_img,
+      eternal_vigil_last_light_7_img,
     ],
     details:
       'Medium: Oil on canvas\nDimensions: 50" x 30" (127cm x 76cm)\nFrame: Ornate baroque-style frame with intricate details, complementing the artwork\'s mystical atmosphere\nTechnique: Utilization of impasto to give the painting a three-dimensional feel, along with glazing techniques for the ethereal glow effects\nPalette: Rich browns and golds juxtaposed with deep blues and subtle grays, highlighting the interplay of light and shadow\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Display in a low-humidity environment away from direct sunlight. Dust with a soft, lint-free cloth. If necessary, seek a professional conservator for cleaning.',
+    reviews: [],
+  },
+  {
+    id: 5,
+    title: "Celestial Mountains: Dawn's Radiance",
+    price: "$199.99",
+    description:
+      "Celestial Mountains: Dawn's Radiance is an exquisite painting that captures the splendor of a mountainous landscape illuminated by the first light of dawn. The artwork features a dramatic sky with clouds that are both foreboding and enlightened, suggesting the duality of nature’s temperament. Below, the mountain peaks soar towards the heavens, their sharp edges softened by the light’s caress. A gentle river meanders through the valley, reflecting the sky’s fiery palette, while the trees stand as silent sentinels witnessing the day’s awakening. This piece is a celebration of the sublime beauty found in the stillness of dawn in the wilderness.",
+    imgUrl: celestial_mountains_dawns_radiance_1_img,
+    images: [
+      celestial_mountains_dawns_radiance_1_img,
+      celestial_mountains_dawns_radiance_2_img,
+      celestial_mountains_dawns_radiance_3_img,
+      celestial_mountains_dawns_radiance_4_img,
+      celestial_mountains_dawns_radiance_5_img,
+      celestial_mountains_dawns_radiance_6_img,
+      celestial_mountains_dawns_radiance_7_img,
+      celestial_mountains_dawns_radiance_8_img,
+      celestial_mountains_dawns_radiance_9_img,
+    ],
+    details:
+      'Medium: Oil on canvas\nDimensions: 44" x 32" (112cm x 81cm)\nFrame: Decorative white frame with ornate detailing that matches the painting\'s ethereal theme\nTechnique: A delicate balance of glazing and fine brushwork to capture the subtleties of light and texture\nPalette: A serene mix of dawn’s soft pastels and the vivid blues and golds that accentuate the morning sky\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Display out of direct sunlight to prevent fading. Dust lightly with a soft, dry cloth; avoid using cleaning agents.',
+    reviews: [],
+  },
+  {
+    id: 6,
+    title: "Gothic Reverie: Shadows and Sentinels",
+    price: "$279.99",
+    description:
+      "Gothic Reverie: Shadows and Sentinels is an evocative artwork that transports viewers into a surreal landscape blending gothic architecture and organic forms. This painting presents a brooding scene where towering spires merge with gnarled, tree-like structures, suggesting an ancient city where the boundaries between the natural and the constructed have eroded over eons. The palette of deep browns and muted golds creates a sense of mystery and timelessness, while the intricate play of light and shadow adds depth and intrigue to this otherworldly tableau.",
+    imgUrl: gothic_reverie_shadows_and_sentinels_1_img,
+    images: [
+      gothic_reverie_shadows_and_sentinels_1_img,
+      gothic_reverie_shadows_and_sentinels_2_img,
+      gothic_reverie_shadows_and_sentinels_3_img,
+      gothic_reverie_shadows_and_sentinels_4_img,
+      gothic_reverie_shadows_and_sentinels_5_img,
+      gothic_reverie_shadows_and_sentinels_6_img,
+      gothic_reverie_shadows_and_sentinels_7_img,
+      gothic_reverie_shadows_and_sentinels_8_img,
+      gothic_reverie_shadows_and_sentinels_9_img,
+    ],
+    details:
+      "Medium: Mixed media on canvas\nDimensions: 52\" x 36\" (132cm x 91cm)\nFrame: Baroque-inspired ornate frame with a dark patina that complements the artwork's gothic theme\nTechnique: A blend of brushwork and textured layers that give life to the piece's dynamic forms\nPalette: A somber selection of charcoals, umbers, and ochres, accented by strategic highlights\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Avoid exposure to direct sunlight to prevent fading. Dust with a soft brush or cloth; consult a conservator for any conservation needs.",
+    reviews: [],
+  },
+  {
+    id: 7,
+    title: "Mystic Realms: Veil of the Ancients",
+    price: "$349.99",
+    description:
+      "Mystic Realms: Veil of the Ancients is a compelling artwork that draws the viewer into a world shrouded in mystery and steeped in history. The scene unfolds in a grand, ancient cityscape enveloped in fog, where gothic structures and archaic ruins stand testament to a bygone era of splendor. Subtle lighting reveals the intricate details of the architecture and the eerie beauty of the misty environ. This painting is a gateway to the imagination, an exploration of the eternal allure of civilizations lost to time and the stories they hold.",
+    imgUrl: mystic_realms_veil_of_the_ancients_1_img,
+    images: [
+      mystic_realms_veil_of_the_ancients_1_img,
+      mystic_realms_veil_of_the_ancients_2_img,
+      mystic_realms_veil_of_the_ancients_3_img,
+      mystic_realms_veil_of_the_ancients_4_img,
+      mystic_realms_veil_of_the_ancients_5_img,
+      mystic_realms_veil_of_the_ancients_6_img,
+      mystic_realms_veil_of_the_ancients_7_img,
+    ],
+    details:
+      'Medium: Acrylic on canvas\nDimensions: 48" x 36" (122cm x 91cm)\nFrame: Sophisticated white frame with delicate patterns that complement the mysterious atmosphere of the painting\nTechnique: A masterful blend of subtle brushstrokes and glazing techniques to create depth and a sense of the ethereal\nPalette: A monochromatic scheme with hints of sepia and gold to evoke an ancient and timeless feel\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Avoid direct sunlight and high humidity. Dust gently with a soft, dry cloth; for deeper cleaning, consult a specialist.',
+    reviews: [],
+  },
+  {
+    id: 8,
+    title: "Twilight Serenity: Alpine Whispers",
+    price: "$299.99",
+    description:
+      "Twilight Serenity: Alpine Whispers is a breathtaking landscape painting that captures the tranquil beauty of an alpine region as twilight descends. The artwork showcases majestic mountains under a sky of moving clouds, with the last light of day casting a soft glow over the snow-capped peaks. Below, a serene river flows through the valley, its surface mirroring the fading light. The fine details of the trees and the fluid motion of the water demonstrate the artist's deft skill and deep appreciation for the natural world. This piece embodies the peaceful solitude of the mountains, inviting reflection and calm.",
+    imgUrl: twilight_serenity_alpine_whispers_1_img,
+    images: [
+      twilight_serenity_alpine_whispers_1_img,
+      twilight_serenity_alpine_whispers_2_img,
+      twilight_serenity_alpine_whispers_3_img,
+      twilight_serenity_alpine_whispers_4_img,
+      twilight_serenity_alpine_whispers_5_img,
+      twilight_serenity_alpine_whispers_6_img,
+      twilight_serenity_alpine_whispers_7_img,
+      twilight_serenity_alpine_whispers_8_img,
+      twilight_serenity_alpine_whispers_9_img,
+    ],
+    details:
+      'Medium: Oil on canvas\nDimensions: 46" x 32" (117cm x 81cm)\nFrame: Elegant white frame with intricate details that enhance the painting\'s beauty\nTechnique: A blend of smooth gradients and detailed brushwork to capture the soft light of dusk\nPalette: Cool tones of blue and gray balanced with warm amber and gold of the setting sun\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Display in indirect lighting to maintain the vibrancy of the colors. Dust with a soft cloth; avoid moisture and cleaning solutions.',
     reviews: [],
   },
 ];
