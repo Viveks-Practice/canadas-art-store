@@ -48,9 +48,14 @@ const ProductDetails = () => {
         <p className="price">{product.price}</p>
         <p className="description">{product.description}</p>
 
-        <h4 className="ingredient-title">Product Details</h4>
-        <p className="details">{product.details}</p>
-        <div className="reviews-section">
+        <h4 className="ingredient-title">How to Order</h4>
+        {/* <p className="details">{product.details}</p> */}
+        <p className="details">
+          Please contact Vivek: <br /> Text: 778 855 4395 <br />
+          Email: viveks_@hotmail.com <br />
+          Please reference the title of the art piece in the text or email!
+        </p>
+        {/* <div className="reviews-section">
           <h2>User Reviews</h2>
           {product.reviews.map((review, index) => (
             <div key={index} className="review">
@@ -61,7 +66,7 @@ const ProductDetails = () => {
               <p>Rating: {review.rating} / 5</p>
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
     </div>
   );

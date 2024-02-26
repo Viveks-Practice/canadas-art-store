@@ -101,7 +101,7 @@
 /* Additional styling for details to differentiate from description if needed */
 .description {
   font-weight: 300; /* Lighter font weight for a subtle difference */
-  font-style: italic; /* Italicize details for emphasis */
+  /* font-style: italic; */
 }
 
 .ingredient-title {

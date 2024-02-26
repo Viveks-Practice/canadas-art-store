@@ -11,6 +11,17 @@
   top: 0;
   z-index: 1000;
 }
+.site-logo-text {
+  font-family: cursive;
+  font-size: 48px; /* 4 times larger */
+  font-weight: bold;
+  color: #508450; /* Pastel leaf green color */
+  /* Add some style */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Text shadow for pizzazz */
+  letter-spacing: 2px; /* Increased letter spacing for style */
+  text-transform: uppercase; /* Uppercase for additional style */
+  line-height: 120px; /* Increase the line-height for vertical spacing */
+}
 
 .navigation {
   display: flex;
