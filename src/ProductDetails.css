@@ -5,13 +5,10 @@
   display: flex;
   gap: 20px;
   padding: 20px;
-
   background: white; /* Set a white background to create a card-like effect */
-  padding: 20px; /* Add some padding around the content */
   border-radius: 10px; /* Rounded corners for the card */
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-  /* Adjust margin as necessary to avoid colliding with other elements */
-  margin-bottom: 20px;
+  margin-bottom: 20px; /* Adjust margin as necessary to avoid colliding with other elements */
 }
 
 .image-gallery {
@@ -22,7 +19,7 @@
 }
 
 .main-image {
-  width: 90%; /* Make it span only 60% */
+  width: 90%; /* Make it span only 90% */
   max-width: 700px; /* Optional: Set a max-width to prevent it from becoming too large */
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
@@ -30,15 +27,16 @@
 }
 
 .thumbnail-list {
-  display: flex;
-  overflow-x: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
   gap: 10px;
+  max-width: 90%; /* Make it span only 90% */
   margin-top: 10px;
 }
 
 .thumbnail-image {
-  width: 80px; /* Adjust as necessary */
-  height: 80px; /* Adjust as necessary */
+  width: 100%;
+  height: 80px;
   border-radius: 5px;
   object-fit: cover;
   cursor: pointer;
@@ -46,7 +44,7 @@
 }
 
 .product-info {
-  flex: 4; /* Takes up 30% of the space */
+  flex: 4;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -55,14 +53,11 @@
 
 .product-info > * {
   width: 100%;
-  /* Align text to center for title and description, remove if not needed */
   text-align: left;
 }
 
 .product-info-title {
   margin: 0;
-  /* font-style: italic; */
-  /* ... other styles ... */
 }
 
 .price {
@@ -71,53 +66,42 @@
   margin-bottom: 10px;
   margin-top: 4px;
   padding-bottom: 10px;
-  border-bottom: 1px solid #eaeaea; /* Light thin line as separator */
-  /* font-style: italic;
-  font-family: "Open Sans", sans-serif; */
+  border-bottom: 1px solid #eaeaea;
 }
 
 .details {
-  border-bottom: 1px solid #eaeaea; /* Light thin line as separator */
+  border-bottom: 1px solid #eaeaea;
 }
 
 .description,
 .details {
-  font-family: "Open Sans", sans-serif; /* Example of a modern and readable font */
-  font-size: 1rem; /* Maintain a font-size that's neither too big nor too small */
-  line-height: 1.6; /* This improves readability by providing adequate spacing between lines of text */
-  color: #333; /* Use a slightly softened black for text to reduce eye strain */
-  max-width: 600px; /* Don't let lines of text get too long (max 600px is a good rule of thumb) */
-  margin-bottom: 1.5rem; /* Add some space after each section for a cleaner look */
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333;
+  max-width: 600px;
+  margin-bottom: 1.5rem;
 }
 
-/* Additional styling for description to differentiate from details if needed */
 .details {
-  font-weight: 400; /* Normal font weight for easy reading */
-  padding: 1rem; /* Padding for a more spacious look */
-  background-color: #f9f9f9; /* A light background can make a block of text feel like an element of focus */
-  border-left: 3px solid #4a613b; /* A colored line on the side can add a touch of elegance */
+  font-weight: 400;
+  padding: 1rem;
+  background-color: #f9f9f9;
+  border-left: 3px solid #4a613b;
 }
 
-/* Additional styling for details to differentiate from description if needed */
 .description {
-  font-weight: 300; /* Lighter font weight for a subtle difference */
-  /* font-style: italic; */
+  font-weight: 300;
 }
 
 .ingredient-title {
-  font-size: 1.125rem; /* Slightly larger than the description text */
+  font-size: 1.125rem;
   color: #333;
-  font-weight: 600; /* Make title bolder to stand out */
-  margin-top: 1rem; /* Spacing before the title */
-  margin-bottom: 0.5rem; /* Reduce space below title to bring content closer */
-  transition: color 0.3s ease; /* Smooth transition for color */
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  transition: color 0.3s ease;
 }
-
-/* .reviews-section {
-  width: 100%;
-  margin-top: 20px;
-  clear: both; 
-} */
 
 .review {
   background: #f4f4f4;
@@ -135,6 +119,24 @@
   .product-info {
     padding: 20px;
   }
+
+  .thumbnail-list {
+    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+    max-width: 100%;
+  }
+
+  .thumbnail-image {
+    height: 60px;
+  }
 }
 
-/* You can further enhance the CSS with animations, transitions and media queries for responsiveness */
+/* Further enhance the CSS with animations, transitions, and media queries for responsiveness */
+@media (max-width: 480px) {
+  .thumbnail-list {
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+  }
+
+  .thumbnail-image {
+    height: 50px;
+  }
+}
