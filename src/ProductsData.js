@@ -92,6 +92,13 @@ import whispering_shadows_the_mystical_grove_5_img from "./images/Whispering Sha
 import whispering_shadows_the_mystical_grove_6_img from "./images/Whispering Shadows The Mystical Grove/whispering_shadows_the_mystical_grove_6.jpg";
 import whispering_shadows_the_mystical_grove_7_img from "./images/Whispering Shadows The Mystical Grove/whispering_shadows_the_mystical_grove_7.jpg";
 import whispering_shadows_the_mystical_grove_8_img from "./images/Whispering Shadows The Mystical Grove/whispering_shadows_the_mystical_grove_8.jpg";
+import elven_bridge1 from "./images/Elven Bridge Matte/elven-bridge1.jpeg";
+import elven_bridge2 from "./images/Elven Bridge Matte/elven-bridge2.jpeg";
+import elven_bridge3 from "./images/Elven Bridge Matte/elven-bridge3.jpeg";
+import elven_bridge4 from "./images/Elven Bridge Matte/elven-bridge4.jpeg";
+import elven_bridge5 from "./images/Elven Bridge Matte/elven-bridge5.jpeg";
+import elven_bridge6 from "./images/Elven Bridge Matte/elven-bridge6.jpeg";
+import elven_bridge7 from "./images/Elven Bridge Matte/elven-bridge7.jpeg";
 
 export const initialProducts = [
   // Focaccia with Olives
@@ -350,6 +357,26 @@ Care Instructions: To ensure the longevity of "Autumn Majesty: Alpine Sunrise," 
     ],
     details:
       'Medium: Acrylic on canvas\nDimensions: 48" x 28" (122cm x 71cm)\nFrame: Gold leaf frame with intricate details complementing the mystical theme\nTechnique: Layered glazing and subtle brushwork to achieve depth and a ghostly atmosphere\nPalette: Cool and muted tones with occasional warm highlights to draw the eye\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from high humidity areas. Dust with a soft, dry cloth.',
+    reviews: [],
+  },
+  {
+    id: 13,
+    title: "Elven Bridge",
+    price: "$340",
+    description:
+      '"Elven Bridge is an evocative art work that invites viewers into a serene and mysterious forest. This piece depicts an ethereal landscape where light and shadow dance among ancient trees, and a delicate mist envelops a distant, arcaded bridge. The artwork conveys a sense of quiet solitude and the beauty of nature\'s untouched corners. The masterful use of light creates a luminous quality that seems to transcend the canvas, beckoning the observer into a world of peace and introspection."',
+    imgUrl: elven_bridge1,
+    images: [
+      elven_bridge1,
+      elven_bridge2,
+      elven_bridge3,
+      elven_bridge4,
+      elven_bridge5,
+      elven_bridge6,
+      elven_bridge7,
+    ],
+    details:
+      'Medium: Acrylic on canvas\nDimensions: 48" x 32" (122cm x 81cm)\nFrame: Ornate gold leaf frame that complements the artwork\'s regal aesthetic\nTechnique: A combination of layered glazing and detailed brushwork to capture the luminosity and texture of the scene\nPalette: A dramatic contrast of warm golden and amber tones against the cool, shadowy blues and grays, creating a captivating visual depth\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Avoid exposure to high humidity or direct sunlight. Dust gently with a microfiber cloth, and use a duster to clean the frame.',
     reviews: [],
   },
 ];
