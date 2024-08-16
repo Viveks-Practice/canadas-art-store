@@ -83,4 +83,28 @@
   color: #555; /* Color on hover */
 }
 
+.feathered-logo {
+  width: 100%; /* Adjust as needed */
+  height: auto;
+  mask-image: linear-gradient(
+      to right,
+      transparent,
+      white 20%,
+      white 80%,
+      transparent
+    ),
+    linear-gradient(to bottom, transparent, white 10%, white 90%, transparent);
+  -webkit-mask-image: linear-gradient(
+      to right,
+      transparent,
+      white 20%,
+      white 80%,
+      transparent
+    ),
+    linear-gradient(to bottom, transparent, white 10%, white 90%, transparent);
+  mask-composite: intersect;
+  -webkit-mask-composite: intersect;
+  background-color: white; /* Fallback for older browsers */
+}
+
 /* Add any additional styles based on the specifics of your design */

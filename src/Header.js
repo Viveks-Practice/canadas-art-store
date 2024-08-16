@@ -9,7 +9,7 @@ import {
   faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 import "./Header.css"; // Make sure to create a Header.css file for styling
-import logoImg from "./images/logo.png";
+import logoImg from "./images/logo7.jpg";
 
 const Header = () => {
   return (
@@ -25,7 +25,11 @@ const Header = () => {
         </div>
         <div className="logo-container">
           {/* You can replace src with your actual logo in the future */}
-          <img src={logoImg} alt="Canada's Art STore" className="site-logo" />
+          <img
+            src={logoImg}
+            alt="Canada's Art Store"
+            className="site-logo feathered-logo"
+          />
         </div>
         <div>
           {/* <a href="//facebook.com" target="_blank" rel="noopener noreferrer">
