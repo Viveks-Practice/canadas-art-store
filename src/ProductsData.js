@@ -99,6 +99,14 @@
 // import elven_bridge5 from "./images/Elven Bridge Matte/elven-bridge5.jpeg";
 // import elven_bridge6 from "./images/Elven Bridge Matte/elven-bridge6.jpeg";
 // import elven_bridge7 from "./images/Elven Bridge Matte/elven-bridge7.jpeg";
+import modern2 from "./images/Flow of Elegance/modern2.png";
+import modern3 from "./images/Flow of Elegance/modern3.png";
+import modern5 from "./images/Flow of Elegance/modern5.png";
+import modern57 from "./images/Architectural Symphony/modern57.png";
+import modern58 from "./images/Emerald Waves of Elegance/modern58.png";
+import modern62 from "./images/Flow of Elegance/modern62.png";
+import modern67 from "./images/Tranquil Horizons/modern67.png";
+import modern68 from "./images/Tranquil Horizons/modern68.png";
 import modern201 from "./images/golden waves/modern201.png";
 import modern202 from "./images/golden waves/modern202.png";
 import modern203 from "./images/golden waves/modern203.png";
@@ -269,6 +277,102 @@ export const initialProducts = [
     images: [modern201],
     details:
       'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Elegant gold frame that enhances the artwork\'s luxurious details and vibrant colors\nTechnique: Layered texturing combined with fine brushwork to achieve a sense of depth and fluidity\nPalette: A rich blend of blues, greens, and golds, adding a sense of opulence and movement\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 13,
+    title: "Flow of Elegance: Symphony of Serenity",
+    price: "$450",
+    description:
+      "“Symphony of Serenity” is a captivating artwork that masterfully blends modern design with elegant curves and a harmonious color palette. The piece features sweeping lines of deep greens, soft browns, and warm creams, creating a fluid motion that draws the eye across the canvas. The intricate details and textures add depth and dimension, while the overall composition evokes a sense of calm and balance. This artwork is perfect for contemporary spaces that seek to combine sophistication with a touch of natural tranquility.",
+    imgUrl: modern3,
+    images: [modern3],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Sleek gold frame that enhances the artwork\'s modern elegance and warm color tones\nTechnique: A combination of smooth brushwork and layered textures to achieve a sense of fluidity and harmony\nPalette: A harmonious blend of deep greens, soft browns, and warm creams, adding a sense of tranquility and sophistication\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 14,
+    title: "Flow of Elegance: Echoes of Harmony",
+    price: "$450",
+    description:
+      "“Echoes of Harmony” is a striking artwork that combines fluid lines with a sophisticated palette of deep greens, soft creams, and warm browns. The piece features dynamic curves that flow effortlessly across the canvas, creating a sense of movement and balance. The layered textures and meticulous details invite the viewer to explore the depth and intricacy of the composition. This artwork is perfect for modern interiors that seek to blend elegance with a sense of organic fluidity.",
+    imgUrl: modern62,
+    images: [modern62],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Sleek gold frame that enhances the artwork\'s elegant design and warm tones\nTechnique: A combination of fine brushwork and layered textures to achieve a sense of movement and depth\nPalette: A refined mix of deep greens, soft creams, and warm browns, adding a sense of tranquility and sophistication\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 15,
+    title: "Flow of Elegance: Rhythm of Nature",
+    price: "$450",
+    description:
+      "“Rhythm of Nature” is a stunning artwork that draws inspiration from the natural world, blending flowing lines and earthy tones to create a sense of movement and balance. The piece features an elegant interplay of deep greens, warm browns, and soft creams, all coming together in a harmonious composition that evokes the beauty of nature in a modern, abstract form. The detailed textures and dynamic curves invite the viewer to experience the rhythm and flow of the natural world, making it a perfect addition to contemporary interiors.",
+    imgUrl: modern5,
+    images: [modern5],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Sleek gold frame that enhances the artwork\'s modern elegance and natural tones\nTechnique: A combination of fine brushwork and layered textures to achieve a sense of movement and harmony\nPalette: A rich blend of deep greens, warm browns, and soft creams, adding a sense of tranquility and natural beauty\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 16,
+    title: "Flow of Elegance: Botanical Grace",
+    price: "$450",
+    description:
+      "“Botanical Grace” is an elegant artwork that seamlessly blends natural elements with modern design. The piece features fluid lines and rich textures, with a harmonious color palette of deep greens, soft creams, warm browns, and muted pinks. The delicate depiction of botanical motifs adds a touch of organic beauty, creating a serene and sophisticated atmosphere. This artwork is ideal for spaces that seek to merge the tranquility of nature with contemporary aesthetics.",
+    imgUrl: modern2,
+    images: [modern2],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Sleek gold frame that complements the artwork\'s modern elegance and botanical theme\nTechnique: A combination of smooth brushwork and layered textures to achieve a sense of depth and harmony\nPalette: A refined mix of deep greens, soft creams, warm browns, and muted pinks, adding a sense of tranquility and sophistication\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 17,
+    title: "Emerald Waves",
+    price: "$450",
+    description:
+      "“Emerald Waves” is a captivating artwork that evokes the fluid beauty of ocean waves, blending rich greens and vibrant golds to create a sense of movement and depth. The piece features sweeping, wave-like patterns that flow across the canvas, interwoven with dark blues and soft creams. The intricate details and layered textures add dimension and energy, making this artwork a stunning focal point for any modern space. The luxurious palette and dynamic composition reflect the elegance and power of nature.",
+    imgUrl: modern58,
+    images: [modern58],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Sleek gold frame that enhances the artwork\'s luxurious details and dynamic composition\nTechnique: A combination of fluid brushwork and layered textures to achieve a sense of depth and movement\nPalette: A vibrant mix of rich greens, golds, and dark blues, adding a sense of opulence and energy\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 18,
+    title: "Architectural Symphony",
+    price: "$450",
+    description:
+      "“Architectural Symphony” is a captivating artwork that harmonizes the precision of modern architecture with the fluidity of artistic expression. The piece features a dynamic interplay of geometric shapes and flowing forms, rendered in deep teal, gold, and bronze hues. The intricate layering and textures create a sense of depth and movement, evoking the rhythm and structure of a grand architectural composition. This artwork is perfect for spaces that celebrate the union of contemporary design and luxurious detail.",
+    imgUrl: modern57,
+    images: [modern57],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Elegant gold frame that enhances the artwork\'s architectural lines and rich color palette\nTechnique: A combination of geometric precision and layered textures to achieve a sense of architectural depth and movement\nPalette: A refined mix of deep teal, gold, and bronze, adding a sense of luxury and sophistication\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 19,
+    title: "Tranquil Horizons: Golden Horizon",
+    price: "$450",
+    description:
+      "“Golden Horizon” is a serene and elegant artwork that captures the tranquil beauty of a setting sun over undulating waves. The piece features smooth, flowing lines in rich teal, deep green, and soft white, complemented by radiant gold accents that evoke the warmth of the sun. The composition is both minimalist and striking, offering a sense of calm and sophistication. This artwork is perfect for spaces that seek to merge contemporary design with a touch of natural elegance.",
+    imgUrl: modern67,
+    images: [modern67],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Sleek gold frame that enhances the artwork\'s elegant lines and warm color palette\nTechnique: A combination of smooth brushwork and layered textures to achieve a sense of depth and tranquility\nPalette: A refined mix of teal, deep green, soft white, and gold, adding a sense of calm and sophistication\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 20,
+    title: "Tranquil Horizons: Earthbound Currents",
+    price: "$450",
+    description:
+      "“Earthbound Currents” is a striking artwork that draws inspiration from the flowing forms and rich tones of the natural world. The piece features a dynamic composition of sweeping lines in deep green, earthy brown, and soft cream, creating a sense of movement and connection to the earth. The layered textures and smooth transitions between colors evoke the serenity and power of natural landscapes, making this artwork a perfect addition to spaces that seek to blend modern design with organic elements.",
+    imgUrl: modern68,
+    images: [modern68],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Sleek gold frame that enhances the artwork\'s natural tones and flowing composition\nTechnique: A combination of smooth brushwork and layered textures to achieve a sense of depth and movement\nPalette: A refined mix of deep green, earthy brown, and soft cream, adding a sense of tranquility and natural beauty\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
     reviews: [],
   },
 
