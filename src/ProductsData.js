@@ -99,6 +99,8 @@
 // import elven_bridge5 from "./images/Elven Bridge Matte/elven-bridge5.jpeg";
 // import elven_bridge6 from "./images/Elven Bridge Matte/elven-bridge6.jpeg";
 // import elven_bridge7 from "./images/Elven Bridge Matte/elven-bridge7.jpeg";
+import modern201 from "./images/golden waves/modern201.png";
+import modern202 from "./images/golden waves/modern202.png";
 import modern203 from "./images/golden waves/modern203.png";
 import modern204 from "./images/golden waves/modern204.png";
 import modern205 from "./images/golden waves/modern205.png";
@@ -187,7 +189,7 @@ export const initialProducts = [
   },
   {
     id: 6,
-    title: "Waves of Prosperity",
+    title: "A Symphony of Waves: Waves of Prosperity",
     price: "$450",
     description:
       "“Waves of Prosperity” is a striking artwork that captures the dynamic interplay of movement and color, evoking the relentless energy of the sea and the enduring strength of the earth. The piece features bold, flowing patterns reminiscent of ocean waves, interspersed with intricate golden accents that symbolize wealth and abundance. The rich palette of deep blues, vibrant greens, and shimmering golds creates a visual feast, drawing the viewer into a world of opulence and vitality. This artwork is a perfect statement piece for those who appreciate the beauty of nature combined with the allure of luxury.",
@@ -199,7 +201,7 @@ export const initialProducts = [
   },
   {
     id: 7,
-    title: "Azure Cascade",
+    title: "A Symphony of Waves: Azure Cascade",
     price: "$450",
     description:
       "“Azure Cascade” is an awe-inspiring artwork that embodies the majestic flow and energy of cascading water, merging with the rich hues of a vibrant landscape. The piece is alive with movement, where sweeping lines of deep blues and greens blend seamlessly with golden accents, creating a mesmerizing interplay of colors. The intricate details and layered textures invite the viewer to get lost in the tranquil yet dynamic scene, offering a sense of both calm and exhilaration. This artwork is a perfect choice for those who appreciate the beauty and power of nature infused with a touch of luxury.",
@@ -211,7 +213,7 @@ export const initialProducts = [
   },
   {
     id: 8,
-    title: "Gilded Currents",
+    title: "A Symphony of Waves: Gilded Currents",
     price: "$450",
     description:
       "“Gilded Currents” is a mesmerizing artwork that captures the fluid movement of water as it intertwines with opulent golden accents. The piece evokes a sense of flowing energy and tranquility, where vibrant blues and greens are beautifully contrasted with the shimmering gold, creating a dynamic yet harmonious composition. The intricate patterns and textures invite the viewer to explore the depth and richness of the scene, making it a stunning focal point for any space. This artwork is a celebration of nature’s elegance and the timeless beauty of luxury.",
@@ -223,7 +225,7 @@ export const initialProducts = [
   },
   {
     id: 9,
-    title: "Verdant Waves",
+    title: "A Symphony of Waves: Verdant Waves",
     price: "$450",
     description:
       "“Verdant Waves” is a stunning artwork that captures the mesmerizing movement of water interwoven with the lush, vibrant colors of nature. The piece features sweeping lines of blues and greens, enhanced by golden accents that add a touch of luxury and warmth. The intricate patterns and textures create a sense of depth and fluidity, inviting the viewer to explore the harmonious blend of natural elements. This artwork is a celebration of the dynamic beauty of the natural world, brought to life with a rich and sophisticated palette.",
@@ -235,12 +237,36 @@ export const initialProducts = [
   },
   {
     id: 10,
-    title: "Opulent Tides",
+    title: "A Symphony of Waves: Opulent Tides",
     price: "$450",
     description:
       "“Opulent Tides” is a captivating artwork that blends the elegance of flowing water with the richness of gilded accents. The piece features swirling patterns of deep blues and greens, interwoven with shimmering gold, creating a luxurious visual experience. The intricate textures and dynamic movement evoke the beauty and power of nature, while the opulent palette adds a touch of grandeur. This artwork is perfect for those who appreciate the intersection of natural beauty and refined luxury.",
     imgUrl: modern209,
     images: [modern209],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Elegant gold frame that enhances the artwork\'s luxurious details and vibrant colors\nTechnique: Layered texturing combined with fine brushwork to achieve a sense of depth and fluidity\nPalette: A rich blend of blues, greens, and golds, adding a sense of opulence and movement\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 11,
+    title: "A Symphony of Waves: Aqua Elegance",
+    price: "$450",
+    description:
+      "“Aqua Elegance” is a breathtaking piece that captures the serene beauty of flowing water combined with the opulence of golden accents. The artwork is a harmonious blend of soft blues and greens, contrasted with shimmering gold that evokes a sense of luxury and tranquility. The fluid, swirling patterns create a dynamic movement across the canvas, drawing the viewer into a peaceful yet captivating visual experience. This piece is perfect for those who appreciate the fusion of natural beauty with refined elegance.",
+    imgUrl: modern202,
+    images: [modern202],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Sleek gold frame that enhances the artwork\'s luxurious details and soothing color palette\nTechnique: A combination of delicate brushwork and layered textures to achieve depth and movement\nPalette: A calming mix of blues, greens, and golds, adding a sense of opulence and tranquility\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 12,
+    title: "A Symphony of Waves: Golden Horizon",
+    price: "$450",
+    description:
+      "“Golden Horizon” is an exquisite piece that captures the meeting of earth and sky, blending deep blues and greens with radiant gold. The artwork evokes the sense of a majestic landscape, where the richness of nature is illuminated by the warm glow of sunlight. The swirling patterns and intricate details create a sense of movement and depth, inviting the viewer to explore the dynamic interplay of colors and textures. This piece is perfect for those who appreciate the harmony of natural beauty and luxurious accents.",
+    imgUrl: modern201,
+    images: [modern201],
     details:
       'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Elegant gold frame that enhances the artwork\'s luxurious details and vibrant colors\nTechnique: Layered texturing combined with fine brushwork to achieve a sense of depth and fluidity\nPalette: A rich blend of blues, greens, and golds, adding a sense of opulence and movement\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
     reviews: [],
