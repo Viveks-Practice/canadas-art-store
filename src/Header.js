@@ -16,6 +16,8 @@ const Header = () => {
     <header className="site-header">
       <nav className="navigation">
         <div className="nav-left">
+          <span className="hidden-text">-------------------</span>{" "}
+          {/* White text for centering */}
           {/* Use Link for client-side routing */}
           {/* <Link to="/about">About</Link> */}
           {/* <Link to="/products">Products</Link>{" "} */}
@@ -32,15 +34,24 @@ const Header = () => {
           />
         </div>
         <div>
-          {/* <a href="//facebook.com" target="_blank" rel="noopener noreferrer">
+          <a
+            href="//instagram.com/canadasartstore"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FontAwesomeIcon icon={faInstagram} className="social-icon" />
+          </a>
+          <a
+            href="https://www.facebook.com/marketplace/profile/100082891729834"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <FontAwesomeIcon icon={faFacebookF} className="social-icon" />
           </a>
-          <a href="//twitter.com" target="_blank" rel="noopener noreferrer">
+          {/* <a href="//twitter.com" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faTwitter} className="social-icon" />
-          </a>
-          <a href="//instagram.com" target="_blank" rel="noopener noreferrer">
-            <FontAwesomeIcon icon={faInstagram} className="social-icon" />
           </a> */}
+
           {/* <button className="preorder-button">
             Pre-Order/Curbside Pick Up
           </button> */}

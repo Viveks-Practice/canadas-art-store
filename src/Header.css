@@ -74,9 +74,9 @@
 }
 
 .social-icon {
-  color: #333; /* Default icon color, change as required */
-  margin-right: 15px; /* Spacing between icons */
-  font-size: 20px; /* Icon size, adjust as needed */
+  color: #c2b67e; /* Default icon color, change as required */
+  margin-right: 25px; /* Spacing between icons */
+  font-size: 24px; /* Icon size, adjust as needed */
 }
 
 .social-icon:hover {
@@ -105,6 +105,11 @@
   mask-composite: intersect;
   -webkit-mask-composite: intersect;
   background-color: white; /* Fallback for older browsers */
+}
+
+.hidden-text {
+  color: #fff; /* Match the background color */
+  visibility: visible; /* Ensure it's visible for centering */
 }
 
 /* Add any additional styles based on the specifics of your design */

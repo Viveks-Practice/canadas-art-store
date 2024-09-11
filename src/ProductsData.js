@@ -125,7 +125,7 @@ export const initialProducts = [
   {
     id: 1,
     title: "Eternal Harmony: Symphony of Serenity",
-    price: "$450",
+    price: "$30",
     description:
       '"Symphony of Serenity" is a stunning piece that immerses viewers in a delicate dance of color and texture. The artwork, inspired by both modern and ancient motifs, features swirling forms that evoke a sense of fluid motion, like gentle waves or flowing silk. The intricate patterns, reminiscent of traditional Eastern designs, are brought to life through a luxurious palette of soft blues, creamy whites, and subtle golds, all highlighted with refined, embossed details. This piece exudes an air of tranquility and elegance, making it a perfect centerpiece for any space seeking a touch of serenity and sophistication.',
     imgUrl: modern219,
@@ -137,7 +137,7 @@ export const initialProducts = [
   {
     id: 2,
     title: "Eternal Harmony: Flowing Harmony",
-    price: "$450",
+    price: "$30",
     description:
       "“Flowing Harmony” is a mesmerizing artwork that captures the gentle, undulating rhythms of nature. This piece invites the viewer to explore a serene landscape where soft hues and delicate forms blend seamlessly to evoke a sense of peaceful flow. The elegant curves and subtle transitions of color create a soothing visual experience, reminiscent of tranquil waves or the soft breeze through a meadow. The use of gold accents adds a touch of luxury, enhancing the ethereal quality of the artwork. Perfect for spaces that seek to inspire calm and contemplation, this piece is both modern and timeless.",
     imgUrl: modern220,
@@ -149,7 +149,7 @@ export const initialProducts = [
   {
     id: 3,
     title: "Eternal Harmony: Golden Reverie",
-    price: "$450",
+    price: "$30",
     description:
       "“Golden Reverie” is an exquisite piece that harmonizes the grandeur of architectural elements with the fluidity of natural forms. The artwork invites viewers into a dreamlike landscape where the structured lines of gothic design meet the soft, swirling patterns of organic movement. The warm, golden tones interwoven with subtle grays and earthy hues create a sense of depth and serenity, while the intricate details draw the eye to explore the rich textures and elegant composition. This artwork is a perfect blend of tradition and modernity, making it a sophisticated addition to any space.",
     imgUrl: modern217,
@@ -162,7 +162,7 @@ export const initialProducts = [
   {
     id: 4,
     title: "Eternal Harmony: Elysian Currents",
-    price: "$450",
+    price: "$30",
     description:
       "“Elysian Currents” is a captivating piece that merges the disciplined lines of gothic architecture with the free-flowing essence of natural forms. The artwork evokes a sense of movement and grace, as the structured elements blend seamlessly into swirling patterns, creating a dynamic visual experience. The rich interplay of soft, neutral hues with warm, earthy tones, highlighted by subtle metallic accents, adds layers of depth and sophistication. This artwork serves as a bridge between the old and the new, bringing a timeless elegance to any space.",
     imgUrl: modern218,
@@ -174,7 +174,7 @@ export const initialProducts = [
   {
     id: 5,
     title: "Eternal Harmony: Celestial Drift",
-    price: "$450",
+    price: "$30",
     description:
       "“Celestial Drift” is an evocative piece that captures the ethereal movement of clouds and waves, blending them into a harmonious dance of color and form. The artwork features soft, swirling patterns that seem to float effortlessly across the canvas, reminiscent of celestial bodies drifting in the cosmos. The palette of muted earth tones, combined with subtle blues and creams, creates a tranquil atmosphere that invites contemplation. The delicate layering and intricate texturing add depth to the piece, making it a perfect addition to spaces that seek to inspire peace and introspection.",
     imgUrl: modern221,
@@ -186,7 +186,7 @@ export const initialProducts = [
   {
     id: 5,
     title: "Serenade of the Elements",
-    price: "$450",
+    price: "$30",
     description:
       "“Serenade of the Elements” is a captivating artwork that masterfully blends the essence of natural forces with architectural elegance. The piece features fluid, swirling patterns that evoke the movement of water, air, and earth, harmoniously intertwined with subtle geometric structures. The muted palette of earthy browns, soft greys, and gentle blues creates a serene yet dynamic atmosphere, drawing the viewer into a meditative state. The detailed textures and flowing lines invite exploration, making this piece a stunning focal point for any room.",
     imgUrl: modern205,
@@ -198,7 +198,7 @@ export const initialProducts = [
   {
     id: 6,
     title: "A Symphony of Waves: Waves of Prosperity",
-    price: "$450",
+    price: "$30",
     description:
       "“Waves of Prosperity” is a striking artwork that captures the dynamic interplay of movement and color, evoking the relentless energy of the sea and the enduring strength of the earth. The piece features bold, flowing patterns reminiscent of ocean waves, interspersed with intricate golden accents that symbolize wealth and abundance. The rich palette of deep blues, vibrant greens, and shimmering golds creates a visual feast, drawing the viewer into a world of opulence and vitality. This artwork is a perfect statement piece for those who appreciate the beauty of nature combined with the allure of luxury.",
     imgUrl: modern203,
@@ -210,7 +210,7 @@ export const initialProducts = [
   {
     id: 7,
     title: "A Symphony of Waves: Azure Cascade",
-    price: "$450",
+    price: "$30",
     description:
       "“Azure Cascade” is an awe-inspiring artwork that embodies the majestic flow and energy of cascading water, merging with the rich hues of a vibrant landscape. The piece is alive with movement, where sweeping lines of deep blues and greens blend seamlessly with golden accents, creating a mesmerizing interplay of colors. The intricate details and layered textures invite the viewer to get lost in the tranquil yet dynamic scene, offering a sense of both calm and exhilaration. This artwork is a perfect choice for those who appreciate the beauty and power of nature infused with a touch of luxury.",
     imgUrl: modern204,
@@ -222,7 +222,7 @@ export const initialProducts = [
   {
     id: 8,
     title: "A Symphony of Waves: Gilded Currents",
-    price: "$450",
+    price: "$30",
     description:
       "“Gilded Currents” is a mesmerizing artwork that captures the fluid movement of water as it intertwines with opulent golden accents. The piece evokes a sense of flowing energy and tranquility, where vibrant blues and greens are beautifully contrasted with the shimmering gold, creating a dynamic yet harmonious composition. The intricate patterns and textures invite the viewer to explore the depth and richness of the scene, making it a stunning focal point for any space. This artwork is a celebration of nature’s elegance and the timeless beauty of luxury.",
     imgUrl: modern206,
@@ -234,7 +234,7 @@ export const initialProducts = [
   {
     id: 9,
     title: "A Symphony of Waves: Verdant Waves",
-    price: "$450",
+    price: "$30",
     description:
       "“Verdant Waves” is a stunning artwork that captures the mesmerizing movement of water interwoven with the lush, vibrant colors of nature. The piece features sweeping lines of blues and greens, enhanced by golden accents that add a touch of luxury and warmth. The intricate patterns and textures create a sense of depth and fluidity, inviting the viewer to explore the harmonious blend of natural elements. This artwork is a celebration of the dynamic beauty of the natural world, brought to life with a rich and sophisticated palette.",
     imgUrl: modern208,
@@ -246,7 +246,7 @@ export const initialProducts = [
   {
     id: 10,
     title: "A Symphony of Waves: Opulent Tides",
-    price: "$450",
+    price: "$30",
     description:
       "“Opulent Tides” is a captivating artwork that blends the elegance of flowing water with the richness of gilded accents. The piece features swirling patterns of deep blues and greens, interwoven with shimmering gold, creating a luxurious visual experience. The intricate textures and dynamic movement evoke the beauty and power of nature, while the opulent palette adds a touch of grandeur. This artwork is perfect for those who appreciate the intersection of natural beauty and refined luxury.",
     imgUrl: modern209,
@@ -258,7 +258,7 @@ export const initialProducts = [
   {
     id: 11,
     title: "A Symphony of Waves: Aqua Elegance",
-    price: "$450",
+    price: "$30",
     description:
       "“Aqua Elegance” is a breathtaking piece that captures the serene beauty of flowing water combined with the opulence of golden accents. The artwork is a harmonious blend of soft blues and greens, contrasted with shimmering gold that evokes a sense of luxury and tranquility. The fluid, swirling patterns create a dynamic movement across the canvas, drawing the viewer into a peaceful yet captivating visual experience. This piece is perfect for those who appreciate the fusion of natural beauty with refined elegance.",
     imgUrl: modern202,
@@ -270,7 +270,7 @@ export const initialProducts = [
   {
     id: 12,
     title: "A Symphony of Waves: Golden Horizon",
-    price: "$450",
+    price: "$30",
     description:
       "“Golden Horizon” is an exquisite piece that captures the meeting of earth and sky, blending deep blues and greens with radiant gold. The artwork evokes the sense of a majestic landscape, where the richness of nature is illuminated by the warm glow of sunlight. The swirling patterns and intricate details create a sense of movement and depth, inviting the viewer to explore the dynamic interplay of colors and textures. This piece is perfect for those who appreciate the harmony of natural beauty and luxurious accents.",
     imgUrl: modern201,
@@ -282,7 +282,7 @@ export const initialProducts = [
   {
     id: 13,
     title: "Flow of Elegance: Symphony of Serenity",
-    price: "$450",
+    price: "$30",
     description:
       "“Symphony of Serenity” is a captivating artwork that masterfully blends modern design with elegant curves and a harmonious color palette. The piece features sweeping lines of deep greens, soft browns, and warm creams, creating a fluid motion that draws the eye across the canvas. The intricate details and textures add depth and dimension, while the overall composition evokes a sense of calm and balance. This artwork is perfect for contemporary spaces that seek to combine sophistication with a touch of natural tranquility.",
     imgUrl: modern3,
@@ -294,7 +294,7 @@ export const initialProducts = [
   {
     id: 14,
     title: "Flow of Elegance: Echoes of Harmony",
-    price: "$450",
+    price: "$30",
     description:
       "“Echoes of Harmony” is a striking artwork that combines fluid lines with a sophisticated palette of deep greens, soft creams, and warm browns. The piece features dynamic curves that flow effortlessly across the canvas, creating a sense of movement and balance. The layered textures and meticulous details invite the viewer to explore the depth and intricacy of the composition. This artwork is perfect for modern interiors that seek to blend elegance with a sense of organic fluidity.",
     imgUrl: modern62,
@@ -306,7 +306,7 @@ export const initialProducts = [
   {
     id: 15,
     title: "Flow of Elegance: Rhythm of Nature",
-    price: "$450",
+    price: "$30",
     description:
       "“Rhythm of Nature” is a stunning artwork that draws inspiration from the natural world, blending flowing lines and earthy tones to create a sense of movement and balance. The piece features an elegant interplay of deep greens, warm browns, and soft creams, all coming together in a harmonious composition that evokes the beauty of nature in a modern, abstract form. The detailed textures and dynamic curves invite the viewer to experience the rhythm and flow of the natural world, making it a perfect addition to contemporary interiors.",
     imgUrl: modern5,
@@ -318,7 +318,7 @@ export const initialProducts = [
   {
     id: 16,
     title: "Flow of Elegance: Botanical Grace",
-    price: "$450",
+    price: "$30",
     description:
       "“Botanical Grace” is an elegant artwork that seamlessly blends natural elements with modern design. The piece features fluid lines and rich textures, with a harmonious color palette of deep greens, soft creams, warm browns, and muted pinks. The delicate depiction of botanical motifs adds a touch of organic beauty, creating a serene and sophisticated atmosphere. This artwork is ideal for spaces that seek to merge the tranquility of nature with contemporary aesthetics.",
     imgUrl: modern2,
@@ -330,7 +330,7 @@ export const initialProducts = [
   {
     id: 17,
     title: "Emerald Waves",
-    price: "$450",
+    price: "$30",
     description:
       "“Emerald Waves” is a captivating artwork that evokes the fluid beauty of ocean waves, blending rich greens and vibrant golds to create a sense of movement and depth. The piece features sweeping, wave-like patterns that flow across the canvas, interwoven with dark blues and soft creams. The intricate details and layered textures add dimension and energy, making this artwork a stunning focal point for any modern space. The luxurious palette and dynamic composition reflect the elegance and power of nature.",
     imgUrl: modern58,
@@ -342,7 +342,7 @@ export const initialProducts = [
   {
     id: 18,
     title: "Architectural Symphony",
-    price: "$450",
+    price: "$30",
     description:
       "“Architectural Symphony” is a captivating artwork that harmonizes the precision of modern architecture with the fluidity of artistic expression. The piece features a dynamic interplay of geometric shapes and flowing forms, rendered in deep teal, gold, and bronze hues. The intricate layering and textures create a sense of depth and movement, evoking the rhythm and structure of a grand architectural composition. This artwork is perfect for spaces that celebrate the union of contemporary design and luxurious detail.",
     imgUrl: modern57,
@@ -354,7 +354,7 @@ export const initialProducts = [
   {
     id: 19,
     title: "Tranquil Horizons: Golden Horizon",
-    price: "$450",
+    price: "$30",
     description:
       "“Golden Horizon” is a serene and elegant artwork that captures the tranquil beauty of a setting sun over undulating waves. The piece features smooth, flowing lines in rich teal, deep green, and soft white, complemented by radiant gold accents that evoke the warmth of the sun. The composition is both minimalist and striking, offering a sense of calm and sophistication. This artwork is perfect for spaces that seek to merge contemporary design with a touch of natural elegance.",
     imgUrl: modern67,
@@ -366,7 +366,7 @@ export const initialProducts = [
   {
     id: 20,
     title: "Tranquil Horizons: Earthbound Currents",
-    price: "$450",
+    price: "$30",
     description:
       "“Earthbound Currents” is a striking artwork that draws inspiration from the flowing forms and rich tones of the natural world. The piece features a dynamic composition of sweeping lines in deep green, earthy brown, and soft cream, creating a sense of movement and connection to the earth. The layered textures and smooth transitions between colors evoke the serenity and power of natural landscapes, making this artwork a perfect addition to spaces that seek to blend modern design with organic elements.",
     imgUrl: modern68,

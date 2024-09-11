@@ -48,25 +48,39 @@ const ProductDetails = () => {
         <p className="price">{product.price}</p>
         <p className="description">{product.description}</p>
 
+        {/* New Blurb */}
+        <p className="description">
+          Available in 3 sizes!
+          <br />
+          $30 - 10 x 10 inches
+          <br />
+          $60 - 30 x 30 inches
+          <br />
+          $100 - 40 x 40 inches
+          <br />
+        </p>
+
         <h4 className="ingredient-title">How to Order</h4>
         {/* <p className="details">{product.details}</p> */}
         <p className="details">
-          Please contact Vivek: <br /> Text: 778 855 4395 <br />
-          Email: viveks_@hotmail.com <br />
+          Please contact Vivek: <br />
+          Instagram: https://www.instagram.com/canadasartstore/ <br />
+          Text: 778 855 4395 <br />
+          Email: candasartstore@gmail.com <br />
           Please reference the title of the art piece in the text or email!
         </p>
         {/* <div className="reviews-section">
-          <h2>User Reviews</h2>
-          {product.reviews.map((review, index) => (
-            <div key={index} className="review">
-              <p>
-                <strong>{review.reviewer}</strong>
-              </p>
-              <p>{review.comment}</p>
-              <p>Rating: {review.rating} / 5</p>
-            </div>
-          ))}
-        </div> */}
+    <h2>User Reviews</h2>
+    {product.reviews.map((review, index) => (
+      <div key={index} className="review">
+        <p>
+          <strong>{review.reviewer}</strong>
+        </p>
+        <p>{review.comment}</p>
+        <p>Rating: {review.rating} / 5</p>
+      </div>
+    ))}
+  </div> */}
       </div>
     </div>
   );
