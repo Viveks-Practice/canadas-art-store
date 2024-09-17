@@ -1,11 +1,14 @@
+import modern1 from "./images/modern1.png";
 import modern2 from "./images/Flow of Elegance/modern2.png";
 import modern3 from "./images/Flow of Elegance/modern3.png";
 import modern4 from "./images/modern4.png";
 import modern5 from "./images/Flow of Elegance/modern5.png";
 import modern6 from "./images/modern6.png";
+import modern10 from "./images/modern10.png";
 import modern38 from "./images/modern38.png";
 import modern39 from "./images/modern39.png";
 import modern40 from "./images/modern40.png";
+import modern41 from "./images/modern41.png";
 import modern42 from "./images/modern42.png";
 import modern46 from "./images/modern46.png";
 import modern47 from "./images/modern47.png";
@@ -22,8 +25,13 @@ import modern68 from "./images/Tranquil Horizons/modern68.png";
 import modern100 from "./images/modern100.png";
 import modern102 from "./images/modern102.png";
 import modern104 from "./images/modern104.png";
+import modern105 from "./images/modern105.png";
+import modern106 from "./images/modern106.png";
 import modern107 from "./images/modern107.png";
 import modern108 from "./images/modern108.png";
+import modern109 from "./images/modern109.png";
+import modern110 from "./images/modern110.png";
+import modern111 from "./images/modern111.png";
 import modern112 from "./images/modern112.png";
 import modern116 from "./images/modern116.png";
 import modern201 from "./images/golden waves/modern201.png";
@@ -328,6 +336,294 @@ export const initialProducts = [
     reviews: [],
   },
   {
+    id: 28,
+    title: "Infinite Folds",
+    price: "$30",
+    description:
+      "“Infinite Folds” masterfully captures the dynamic interplay of shapes and shadows, presenting a vivid exploration of geometric precision. This piece features an array of spirals and curves in a monochrome palette of white, gray, and soft golds, creating a mesmerizing optical effect. The detailed layering and precise engineering of the shapes convey a sense of infinite complexity, making this artwork a standout piece for any modern interior.",
+    imgUrl: modern48,
+    images: [modern48],
+    details:
+      'Medium: Mixed media on wood\nDimensions: 60" x 60" (152cm x 152cm)\nFrame: Sleek metallic frame that accentuates the artwork\'s modern aesthetic\nTechnique: A meticulous arrangement of layered wood and painted elements to create depth and texture\nPalette: A neutral yet striking mix of whites, grays, and golds, designed to enhance the visual impact of the piece\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 29,
+    title: "Serenade of Curves",
+    price: "$30",
+    description:
+      "“Serenade of Curves” offers a visual symphony of fluid motion and graceful interlocking forms. This captivating piece utilizes a palette of deep teal, warm earth tones, and contrasting whites, weaving them into a complex arrangement of curved lines that suggest both movement and harmony. The artwork’s textured layers and strategic use of metallic accents evoke a sense of depth and refinement, making it a sophisticated choice for contemporary spaces.",
+    imgUrl: modern50,
+    images: [modern50],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 60" x 60" (152cm x 152cm)\nFrame: Elegant dark teal frame that enhances the depth and sophistication of the artwork\nTechnique: Expert layering of painted surfaces with embossed metallic elements to emphasize the flowing design\nPalette: A rich combination of teal, earthy browns, and crisp whites, designed to evoke a serene yet dynamic aesthetic\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 30,
+    title: "Geometric Harmony",
+    price: "$30",
+    description:
+      "“Geometric Harmony” beautifully encapsulates the interplay of geometry and fluidity. This piece features a sophisticated arrangement of layered geometrical shapes intertwined with flowing curves, presented in a palette of natural wood tones, deep blues, and subtle greys. The striking contrast between rigid structures and soft, sweeping lines creates a visually arresting composition that is both modern and timeless.",
+    imgUrl: modern51,
+    images: [modern51],
+    details:
+      'Medium: Mixed media on wood\nDimensions: 60" x 60" (152cm x 152cm)\nFrame: Modern dark frame that complements the artwork\'s bold and complex design\nTechnique: Precision-cut elements layered with a fluid painting technique to emphasize depth and movement\nPalette: Earthy browns, deep blues, and neutral greys, creating a balanced and impactful visual experience\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 35,
+    title: "Eternal Spring",
+    price: "$30",
+    description:
+      "“Eternal Spring” is a visual celebration of nature’s endless renewal, captured through swirling forms and a gentle, inviting color scheme. This piece intertwines various elements of flora, rendered in soft whites, greens, and creams, to evoke the freshness of spring. The smooth curves and flowing lines suggest growth and tranquility, making this artwork a perfect piece to bring a sense of peace and natural beauty into any space.",
+    imgUrl: modern4,
+    images: [modern4],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Classic white frame that complements the light and airy theme of the artwork\nTechnique: Layering and airbrush techniques used to create the soft, fluid effect of the curves\nPalette: Soft pastels and neutral tones, embodying the spirit of spring and renewal\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 31,
+    title: "Architectural Waves",
+    price: "$30",
+    description:
+      "“Architectural Waves” is a masterful blend of structured forms and fluid lines, depicting an artistic interpretation of urban design merging with natural elements. This piece showcases a sophisticated palette of teal, copper, and cream, arranged in layers that create a sense of depth and perspective. The combination of rigid, architectural shapes with the softness of wave-like curves offers a unique visual experience, portraying the harmony between man-made and natural aesthetics.",
+    imgUrl: modern39,
+    images: [modern39],
+    details:
+      'Medium: Mixed media on wood\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Modern minimalist frame in a matching cream tone that enhances the artwork\'s geometric complexity\nTechnique: Advanced layering techniques using wood and metal with precision painting to capture both the sharp and fluid dynamics\nPalette: A rich blend of deep teal, metallic copper, and neutral cream, evoking a serene yet vibrant mood\nSigned by the artist in the lower center\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 32,
+    title: "Urban Complexity",
+    price: "$30",
+    description:
+      "“Urban Complexity” is an artistic exploration of cityscape dynamics through abstract geometrical forms. This piece expertly combines shades of blue, gray, and tan to mimic the bustling energy and varied textures of a modern metropolis. The structured layering and meticulous assembly of different materials convey a sense of depth and perspective, capturing the essence of urban architecture in a strikingly unique way.",
+    imgUrl: modern40,
+    images: [modern40],
+    details:
+      'Medium: Mixed media on wood\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Robust black frame that boldly outlines the complex structures within\nTechnique: Precise engineering of wood and metal elements layered with a sophisticated color gradient\nPalette: A blend of cool blues, industrial grays, and warm tans, reflecting the diverse elements of an urban skyline\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 33,
+    title: "Cosmic Depths",
+    price: "$30",
+    description:
+      "“Cosmic Depths” delves into the vastness of the cosmos through an abstract interpretation that combines texture, depth, and a rich color palette. This piece captures the enigmatic beauty of the universe, featuring elements reminiscent of distant stars and planets set against the backdrop of deep space. The integration of gold, silver, and cosmic blues creates a visual spectacle that simulates the awe-inspiring complexity of outer space.",
+    imgUrl: modern42,
+    images: [modern42],
+    details:
+      'Medium: Mixed media on wood\nDimensions: 60" x 60" (152cm x 152cm)\nFrame: Sleek black frame that enhances the deep, vibrant colors of the artwork\nTechnique: Layered construction with a mix of natural and metallic finishes to reflect light and create a dynamic visual experience\nPalette: A cosmic blend of blues, golds, and muted grays, interspersed with bursts of texture to represent celestial bodies\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 55,
+    title: "Metropolitan Symphony",
+    price: "$30",
+    description:
+      "“Metropolitan Symphony” is a dynamic composition that captures the essence of urban architecture and modern design. This artwork intricately layers geometric shapes and a diverse array of textures to create a visually compelling urban landscape. The color scheme features deep blues and rich golds, punctuated by bursts of silver and black, embodying the vibrant energy and sophistication of a bustling cityscape.",
+    imgUrl: modern41,
+    images: [modern41],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Heavy, sleek black frame that underscores the artwork’s modern aesthetic\nTechnique: A combination of digital printing and hand-finishing techniques to achieve sharp details and complex layering\nPalette: A striking mix of blues, golds, and silvers, reflective of the metallic and reflective surfaces found in contemporary urban environments\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 34,
+    title: "Storm Over City",
+    price: "$30",
+    description:
+      "“Storm Over City” captures the tumultuous beauty of a tempest interacting with the rigid forms of an urban skyline. This artwork seamlessly blends the chaotic energy of swirling clouds with the linear precision of skyscrapers, rendered in a dramatic palette of deep blues, grays, and gold. The vivid strokes and dynamic composition evoke the feeling of a storm sweeping over a city, symbolizing the ever-present contrast between nature and human engineering.",
+    imgUrl: modern55,
+    images: [modern55],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 60" x 60" (152cm x 152cm)\nFrame: Elegant black frame that complements the stormy aesthetics of the artwork\nTechnique: Combination of airbrushing and manual detailing to create a vivid portrayal of the storm’s movement\nPalette: A dramatic contrast of dark blues, stark grays, and touches of gold, highlighting the powerful interplay between storm and structure\nSigned by the artist in the lower center\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 39,
+    title: "Architectural Symphony",
+    price: "$30",
+    description:
+      "“Architectural Symphony” is a testament to the harmonious blend of form, function, and aesthetics in modern design. This piece showcases a complex array of geometric shapes and linear forms, each layer meticulously crafted to create a cohesive and striking visual. Rendered in a palette of deep greens, soft grays, and earthy browns, the artwork reflects the precision and clarity of architectural drawing, while spherical elements add a dynamic contrast, enhancing the overall composition.",
+    imgUrl: modern38,
+    images: [modern38],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Sleek metallic frame that complements the clean lines and contemporary feel of the artwork\nTechnique: Precision cutting and assembly of varied materials to emphasize depth and perspective\nPalette: A sophisticated mix of greens, grays, and browns, with metallic highlights that catch the light and draw the eye\nSigned by the artist on the front\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 37,
+    title: "Mystical Realms",
+    price: "$30",
+    description:
+      "“Mystical Realms” is an artistic odyssey into a fantastical universe, where swirling forms and ethereal elements combine to create a captivating visual narrative. This circular artwork features a rich tapestry of colors including deep maroons, creamy whites, and muted golds, all interwoven with striking blacks to enhance the sense of depth and intrigue. The dynamic composition pulls the viewer into a world of imagination and wonder, offering endless discoveries in its intricate layers.",
+    imgUrl: modern47,
+    images: [modern47],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: Diameter: 60" (152cm)\nFrame: Subtle gold frame that complements the majestic theme of the artwork\nTechnique: Complex layering of various materials to achieve a textured, three-dimensional effect\nPalette: A luxurious combination of maroon, gold, black, and white, orchestrated to convey a sense of depth and mystique\nSigned by the artist on the front\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 38,
+    title: "Nature's Embrace",
+    price: "$30",
+    description:
+      "“Nature's Embrace” illustrates the beautiful coexistence of natural landscapes and architectural forms within a unified, circular framework. This piece features elegant, flowing lines that mimic the curves of rivers and wind patterns, juxtaposed with geometric, skyscraper-like structures. Rendered in soothing earth tones of green, gold, and blue, the artwork symbolizes the balance between human innovation and the organic world, offering a serene yet thought-provoking visual experience.",
+    imgUrl: modern52,
+    images: [modern52],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: Diameter: 60" (152cm)\nFrame: Contemporary silver frame that subtly enhances the modern aesthetic of the artwork\nTechnique: Sophisticated layering of carved wood and metal, combined with fluid painting techniques\nPalette: A calming blend of earthy greens, rich golds, and deep blues, creating a tranquil yet vibrant visual harmony\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 36,
+    title: "Vortex of Emotions",
+    price: "$30",
+    description:
+      "“Vortex of Emotions” is a compelling circular masterpiece that captures the intensity and depth of human sentiments through a whirlwind of colors and shapes. The artwork swirls with rich reds, deep blacks, and striking golds, each hue and line meticulously placed to convey movement and emotional depth. This piece’s unique circular format enhances the feeling of being drawn into the artwork, making it a mesmerizing focal point for any room.",
+    imgUrl: modern46,
+    images: [modern46],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: Diameter: 60" (152cm)\nFrame: Luxurious gold frame that echoes the richness of the artwork\nTechnique: Expert layering and blending of various materials to achieve a deep, textured look\nPalette: A dramatic mix of red, black, and gold, with subtle hints of white to balance the intensity\nSigned by the artist on the front\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 40,
+    title: "Liquid Gold",
+    price: "$30",
+    description:
+      "“Liquid Gold” is a mesmerizing blend of fluid artistry and luxurious accents, capturing the ethereal flow of colors intertwined with sparkling gold. This painting conjures images of natural elements—water, air, and minerals—merging in a dance of beauty and grace. The soft gradients of blue, pink, and peach are elevated by the bold streaks of gold, which add a touch of opulence to the soothing color palette.",
+    imgUrl: modern104,
+    images: [modern104],
+    details:
+      'Medium: Resin art on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: None, the edges are neatly finished to complement the flowing aesthetic\nTechnique: Expert blending of resin with pigments and metallic elements to create deep, immersive layers\nPalette: Soft blues, vibrant pinks, and delicate peach tones, accentuated with real gold leaf\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  // {
+  //   id: 41,
+  //   title: "Golden Rift",
+  //   price: "$30",
+  //   description:
+  //     "“Golden Rift” captures the dramatic beauty of natural forms, with a central golden fissure that suggests both separation and connection within the earth’s layers. This artwork utilizes a sophisticated blend of deep blues and soft creams, accented by the radiant gold that traces a jagged path across the canvas. The rich texture and contrasting colors evoke the majestic forms of geological structures, making this piece a stunning representation of the earth’s dynamic processes.",
+  //   imgUrl: modern107,
+  //   images: [modern107],
+  //   details:
+  //     'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Simple, elegant frame that complements the artwork’s vibrant aesthetics\nTechnique: Layering of paint and metallic elements to create a textured, three-dimensional effect\nPalette: Deep blues and earthy creams with bold gold accents, creating a visual impact that is both powerful and elegant\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  {
+    id: 42,
+    title: "Pastel Flow",
+    price: "$30",
+    description:
+      "“Pastel Flow” is a soothing exploration of color and motion, where soft pastel hues blend seamlessly into each other, creating a gentle and calming visual experience. The artwork features a dynamic array of folds and waves, suggesting the graceful movements of water or air. Rendered in delicate shades of lavender, pink, and blue, this piece is perfect for bringing a touch of tranquility to any contemporary space.",
+    imgUrl: modern116,
+    images: [modern116],
+    details:
+      'Medium: Acrylic on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: None, allowing the vibrant edges to flow seamlessly into the wall\nTechnique: Fluid painting techniques to achieve the soft, flowing effect\nPalette: A serene mix of lavender, pink, and blue, with subtle gradients that enhance the sense of depth\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  // {
+  //   id: 43,
+  //   title: "Elegant Serenity",
+  //   price: "$30",
+  //   description:
+  //     "“Elegant Serenity” is a delicate and refined portrayal of nature’s grace, featuring cranes in flight amidst blooming flowers under a golden moon. This artwork is rich in symbolism and beauty, drawing from traditional Asian art to create a serene tableau in a modern aesthetic. The use of soft pinks, tranquil blues, and subtle golds enhances the sense of peace and harmony, making this piece a sophisticated addition to any collection.",
+  //   imgUrl: modern211,
+  //   images: [modern211],
+  //   details:
+  //     'Medium: Digital art on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Slim gold frame that complements the elegance of the artwork\nTechnique: Advanced digital techniques to recreate the intricacy of traditional brush strokes\nPalette: A harmonious blend of soft pinks, blues, and creams, with accents of gold that catch the light and draw the eye\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  // {
+  //   id: 44,
+  //   title: "Blossoming Symphony",
+  //   price: "$30",
+  //   description:
+  //     "“Blossoming Symphony” is a masterful depiction of spring’s vitality, encapsulated within a luxurious circular design. This artwork harmonizes classical Asian elements like cherry blossoms, chrysanthemums, and ornamental waves with a modern aesthetic. The color palette is a soft, romantic fusion of pinks, whites, and earth tones, embellished with gold accents that give the piece a sense of depth and elegance. The composition invites the viewer into a serene, blooming garden that transcends the boundaries of time and culture.",
+  //   imgUrl: modern212,
+  //   images: [modern212],
+  //   details:
+  //     'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Delicate gold frame that enhances the artwork\'s traditional beauty\nTechnique: Advanced digital printing techniques combined with hand-applied finishes to achieve depth and texture\nPalette: A delicate blend of pastel colors with metallic highlights that catch the light and create a dynamic visual experience\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  // {
+  //   id: 45,
+  //   title: "Imperial Dragons",
+  //   price: "$30",
+  //   description:
+  //     "“Imperial Dragons” portrays a powerful scene of celestial dragons amidst tumultuous waves and lush florals, symbolizing strength and prosperity in traditional Asian culture. This piece skillfully blends deep greens, vibrant blues, and gold accents in a stunningly detailed composition that brings ancient myths to life. The dragons, rendered with exceptional detail, appear to soar and twist dynamically across the canvas, embodying the essence of power and divine protection.",
+  //   imgUrl: modern213,
+  //   images: [modern213],
+  //   details:
+  //     'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Ornate gold frame that matches the majestic theme\nTechnique: High-precision digital art with hand-applied details for texture and depth\nPalette: Dominated by deep greens and blues, with luxurious gold accents creating a regal effect\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  // {
+  //   id: 46,
+  //   title: "Celestial Guardians",
+  //   price: "$30",
+  //   description:
+  //     "“Celestial Guardians” depicts a pair of powerful dragons circling amidst clouds and waves under a golden moon, embodying protection and prosperity. This piece draws on traditional East Asian motifs to convey strength and elegance through its detailed depiction of mythical creatures. The dynamic interaction between the elements of water and air, highlighted by the metallic sheen of gold and deep, rich blues, creates a visual spectacle that celebrates cultural heritage and artistic precision.",
+  //   imgUrl: modern214,
+  //   images: [modern214],
+  //   details:
+  //     'Medium: Digital art on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Opulent gold frame that complements the grandiose nature of the artwork\nTechnique: State-of-the-art digital rendering techniques to capture fine details and vibrant colors\nPalette: A rich combination of gold, navy blue, and ivory, with textural contrasts that enhance the depth of the composition\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  // {
+  //   id: 47,
+  //   title: "Cosmic Dance",
+  //   price: "$30",
+  //   description:
+  //     "“Cosmic Dance” is a visually striking piece that explores the fluidity of movement and the harmony of colors in a cosmic setting. This artwork features a complex arrangement of circular and curvilinear forms that intertwine and overlap, creating a sense of depth and motion. The color palette is a bold mix of deep blues, vibrant purples, and rich golds, accented with elements that suggest a spatial, almost astronomical theme.",
+  //   imgUrl: modern6,
+  //   images: [modern6],
+  //   details:
+  //     'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: None, to maintain the illusion of boundlessness\nTechnique: Layering of paints and metallic elements to enhance the three-dimensional effect\nPalette: A cosmic blend of blue, purple, and gold, creating a lively yet harmonious visual experience\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  // {
+  //   id: 48,
+  //   title: "Aqueous Veins",
+  //   price: "$30",
+  //   description:
+  //     "“Aqueous Veins” is an artistic interpretation of the Earth’s waterways and mineral formations, flowing seamlessly across the canvas. This piece blends vibrant shades of teal and green with accents of gold and white, mimicking the natural layering found in geological strata. The gold elements suggest the preciousness of natural resources, while the fluid design represents the ever-changing yet enduring nature of water shaping the landscape.",
+  //   imgUrl: modern215,
+  //   images: [modern215],
+  //   details:
+  //     'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Minimalistic gold frame that enhances the opulent feel of the artwork\nTechnique: Layering of paints and metallic elements to create depth and a sense of movement\nPalette: A lush combination of greens and blues, with metallic gold and white highlights for a touch of elegance\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  {
+    id: 49,
+    title: "Verdant Currents",
+    price: "$30",
+    description:
+      "“Verdant Currents” is an exquisite representation of nature’s fluidity and layered beauty. This piece features sweeping forms that mimic the graceful movements of river currents and wind patterns, rendered in a palette of deep greens, earthy golds, and soft whites. The artwork merges these elements with a sense of organic growth, incorporating textured layers that give the impression of looking into a cross-section of natural elements.",
+    imgUrl: modern216,
+    images: [modern216],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Elegant gold frame that complements the artwork’s rich textures\nTechnique: Advanced layering techniques using both paint and metallic elements to create depth and a tactile quality\nPalette: Rich greens, vibrant golds, and subtle whites, designed to evoke a lush, natural environment\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
+    id: 50,
+    title: "Ethereal Rift",
+    price: "$30",
+    description:
+      "“Ethereal Rift” captures the fragile beauty of geological formations, portrayed through a refined interplay of color and texture. This piece uses a palette of soft whites and deep greens, accented by lines of gold that trace through the composition like veins of precious minerals. The artwork suggests both the randomness and the intrinsic order of natural processes, creating a visually soothing yet complex image that invites contemplation and calm.",
+    imgUrl: modern105,
+    images: [modern105],
+    details:
+      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Simple, modern frame that accentuates the minimalist aesthetic\nTechnique: Skilled application of layering techniques to achieve depth and the illusion of light filtering through\nPalette: A calm blend of white and green hues, with gold accents providing a luxurious touch\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+    reviews: [],
+  },
+  {
     id: 24,
     title: "Sunset Whispers",
     price: "$30",
@@ -375,268 +671,76 @@ export const initialProducts = [
       'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Minimalistic gold frame that enhances the artwork\'s ethereal qualities and gentle color transitions\nTechnique: A blend of airbrushing and manual detailing to achieve the soft, radiant effect\nPalette: A calming mix of pastel greens and golds, reflecting the natural glow of sunlight on petals\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
     reviews: [],
   },
-  {
-    id: 28,
-    title: "Infinite Folds",
-    price: "$30",
-    description:
-      "“Infinite Folds” masterfully captures the dynamic interplay of shapes and shadows, presenting a vivid exploration of geometric precision. This piece features an array of spirals and curves in a monochrome palette of white, gray, and soft golds, creating a mesmerizing optical effect. The detailed layering and precise engineering of the shapes convey a sense of infinite complexity, making this artwork a standout piece for any modern interior.",
-    imgUrl: modern48,
-    images: [modern48],
-    details:
-      'Medium: Mixed media on wood\nDimensions: 60" x 60" (152cm x 152cm)\nFrame: Sleek metallic frame that accentuates the artwork\'s modern aesthetic\nTechnique: A meticulous arrangement of layered wood and painted elements to create depth and texture\nPalette: A neutral yet striking mix of whites, grays, and golds, designed to enhance the visual impact of the piece\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 29,
-    title: "Serenade of Curves",
-    price: "$30",
-    description:
-      "“Serenade of Curves” offers a visual symphony of fluid motion and graceful interlocking forms. This captivating piece utilizes a palette of deep teal, warm earth tones, and contrasting whites, weaving them into a complex arrangement of curved lines that suggest both movement and harmony. The artwork’s textured layers and strategic use of metallic accents evoke a sense of depth and refinement, making it a sophisticated choice for contemporary spaces.",
-    imgUrl: modern50,
-    images: [modern50],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: 60" x 60" (152cm x 152cm)\nFrame: Elegant dark teal frame that enhances the depth and sophistication of the artwork\nTechnique: Expert layering of painted surfaces with embossed metallic elements to emphasize the flowing design\nPalette: A rich combination of teal, earthy browns, and crisp whites, designed to evoke a serene yet dynamic aesthetic\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 30,
-    title: "Geometric Harmony",
-    price: "$30",
-    description:
-      "“Geometric Harmony” beautifully encapsulates the interplay of geometry and fluidity. This piece features a sophisticated arrangement of layered geometrical shapes intertwined with flowing curves, presented in a palette of natural wood tones, deep blues, and subtle greys. The striking contrast between rigid structures and soft, sweeping lines creates a visually arresting composition that is both modern and timeless.",
-    imgUrl: modern51,
-    images: [modern51],
-    details:
-      'Medium: Mixed media on wood\nDimensions: 60" x 60" (152cm x 152cm)\nFrame: Modern dark frame that complements the artwork\'s bold and complex design\nTechnique: Precision-cut elements layered with a fluid painting technique to emphasize depth and movement\nPalette: Earthy browns, deep blues, and neutral greys, creating a balanced and impactful visual experience\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 31,
-    title: "Architectural Waves",
-    price: "$30",
-    description:
-      "“Architectural Waves” is a masterful blend of structured forms and fluid lines, depicting an artistic interpretation of urban design merging with natural elements. This piece showcases a sophisticated palette of teal, copper, and cream, arranged in layers that create a sense of depth and perspective. The combination of rigid, architectural shapes with the softness of wave-like curves offers a unique visual experience, portraying the harmony between man-made and natural aesthetics.",
-    imgUrl: modern39,
-    images: [modern39],
-    details:
-      'Medium: Mixed media on wood\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Modern minimalist frame in a matching cream tone that enhances the artwork\'s geometric complexity\nTechnique: Advanced layering techniques using wood and metal with precision painting to capture both the sharp and fluid dynamics\nPalette: A rich blend of deep teal, metallic copper, and neutral cream, evoking a serene yet vibrant mood\nSigned by the artist in the lower center\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 32,
-    title: "Urban Complexity",
-    price: "$30",
-    description:
-      "“Urban Complexity” is an artistic exploration of cityscape dynamics through abstract geometrical forms. This piece expertly combines shades of blue, gray, and tan to mimic the bustling energy and varied textures of a modern metropolis. The structured layering and meticulous assembly of different materials convey a sense of depth and perspective, capturing the essence of urban architecture in a strikingly unique way.",
-    imgUrl: modern40,
-    images: [modern40],
-    details:
-      'Medium: Mixed media on wood\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Robust black frame that boldly outlines the complex structures within\nTechnique: Precise engineering of wood and metal elements layered with a sophisticated color gradient\nPalette: A blend of cool blues, industrial grays, and warm tans, reflecting the diverse elements of an urban skyline\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 33,
-    title: "Cosmic Depths",
-    price: "$30",
-    description:
-      "“Cosmic Depths” delves into the vastness of the cosmos through an abstract interpretation that combines texture, depth, and a rich color palette. This piece captures the enigmatic beauty of the universe, featuring elements reminiscent of distant stars and planets set against the backdrop of deep space. The integration of gold, silver, and cosmic blues creates a visual spectacle that simulates the awe-inspiring complexity of outer space.",
-    imgUrl: modern42,
-    images: [modern42],
-    details:
-      'Medium: Mixed media on wood\nDimensions: 60" x 60" (152cm x 152cm)\nFrame: Sleek black frame that enhances the deep, vibrant colors of the artwork\nTechnique: Layered construction with a mix of natural and metallic finishes to reflect light and create a dynamic visual experience\nPalette: A cosmic blend of blues, golds, and muted grays, interspersed with bursts of texture to represent celestial bodies\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 34,
-    title: "Storm Over City",
-    price: "$30",
-    description:
-      "“Storm Over City” captures the tumultuous beauty of a tempest interacting with the rigid forms of an urban skyline. This artwork seamlessly blends the chaotic energy of swirling clouds with the linear precision of skyscrapers, rendered in a dramatic palette of deep blues, grays, and gold. The vivid strokes and dynamic composition evoke the feeling of a storm sweeping over a city, symbolizing the ever-present contrast between nature and human engineering.",
-    imgUrl: modern55,
-    images: [modern55],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: 60" x 60" (152cm x 152cm)\nFrame: Elegant black frame that complements the stormy aesthetics of the artwork\nTechnique: Combination of airbrushing and manual detailing to create a vivid portrayal of the storm’s movement\nPalette: A dramatic contrast of dark blues, stark grays, and touches of gold, highlighting the powerful interplay between storm and structure\nSigned by the artist in the lower center\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 35,
-    title: "Eternal Spring",
-    price: "$30",
-    description:
-      "“Eternal Spring” is a visual celebration of nature’s endless renewal, captured through swirling forms and a gentle, inviting color scheme. This piece intertwines various elements of flora, rendered in soft whites, greens, and creams, to evoke the freshness of spring. The smooth curves and flowing lines suggest growth and tranquility, making this artwork a perfect piece to bring a sense of peace and natural beauty into any space.",
-    imgUrl: modern4,
-    images: [modern4],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Classic white frame that complements the light and airy theme of the artwork\nTechnique: Layering and airbrush techniques used to create the soft, fluid effect of the curves\nPalette: Soft pastels and neutral tones, embodying the spirit of spring and renewal\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 36,
-    title: "Vortex of Emotions",
-    price: "$30",
-    description:
-      "“Vortex of Emotions” is a compelling circular masterpiece that captures the intensity and depth of human sentiments through a whirlwind of colors and shapes. The artwork swirls with rich reds, deep blacks, and striking golds, each hue and line meticulously placed to convey movement and emotional depth. This piece’s unique circular format enhances the feeling of being drawn into the artwork, making it a mesmerizing focal point for any room.",
-    imgUrl: modern46,
-    images: [modern46],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: Diameter: 60" (152cm)\nFrame: Luxurious gold frame that echoes the richness of the artwork\nTechnique: Expert layering and blending of various materials to achieve a deep, textured look\nPalette: A dramatic mix of red, black, and gold, with subtle hints of white to balance the intensity\nSigned by the artist on the front\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 37,
-    title: "Mystical Realms",
-    price: "$30",
-    description:
-      "“Mystical Realms” is an artistic odyssey into a fantastical universe, where swirling forms and ethereal elements combine to create a captivating visual narrative. This circular artwork features a rich tapestry of colors including deep maroons, creamy whites, and muted golds, all interwoven with striking blacks to enhance the sense of depth and intrigue. The dynamic composition pulls the viewer into a world of imagination and wonder, offering endless discoveries in its intricate layers.",
-    imgUrl: modern47,
-    images: [modern47],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: Diameter: 60" (152cm)\nFrame: Subtle gold frame that complements the majestic theme of the artwork\nTechnique: Complex layering of various materials to achieve a textured, three-dimensional effect\nPalette: A luxurious combination of maroon, gold, black, and white, orchestrated to convey a sense of depth and mystique\nSigned by the artist on the front\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 38,
-    title: "Nature's Embrace",
-    price: "$30",
-    description:
-      "“Nature's Embrace” illustrates the beautiful coexistence of natural landscapes and architectural forms within a unified, circular framework. This piece features elegant, flowing lines that mimic the curves of rivers and wind patterns, juxtaposed with geometric, skyscraper-like structures. Rendered in soothing earth tones of green, gold, and blue, the artwork symbolizes the balance between human innovation and the organic world, offering a serene yet thought-provoking visual experience.",
-    imgUrl: modern52,
-    images: [modern52],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: Diameter: 60" (152cm)\nFrame: Contemporary silver frame that subtly enhances the modern aesthetic of the artwork\nTechnique: Sophisticated layering of carved wood and metal, combined with fluid painting techniques\nPalette: A calming blend of earthy greens, rich golds, and deep blues, creating a tranquil yet vibrant visual harmony\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 39,
-    title: "Architectural Symphony",
-    price: "$30",
-    description:
-      "“Architectural Symphony” is a testament to the harmonious blend of form, function, and aesthetics in modern design. This piece showcases a complex array of geometric shapes and linear forms, each layer meticulously crafted to create a cohesive and striking visual. Rendered in a palette of deep greens, soft grays, and earthy browns, the artwork reflects the precision and clarity of architectural drawing, while spherical elements add a dynamic contrast, enhancing the overall composition.",
-    imgUrl: modern38,
-    images: [modern38],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Sleek metallic frame that complements the clean lines and contemporary feel of the artwork\nTechnique: Precision cutting and assembly of varied materials to emphasize depth and perspective\nPalette: A sophisticated mix of greens, grays, and browns, with metallic highlights that catch the light and draw the eye\nSigned by the artist on the front\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 40,
-    title: "Liquid Gold",
-    price: "$30",
-    description:
-      "“Liquid Gold” is a mesmerizing blend of fluid artistry and luxurious accents, capturing the ethereal flow of colors intertwined with sparkling gold. This painting conjures images of natural elements—water, air, and minerals—merging in a dance of beauty and grace. The soft gradients of blue, pink, and peach are elevated by the bold streaks of gold, which add a touch of opulence to the soothing color palette.",
-    imgUrl: modern104,
-    images: [modern104],
-    details:
-      'Medium: Resin art on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: None, the edges are neatly finished to complement the flowing aesthetic\nTechnique: Expert blending of resin with pigments and metallic elements to create deep, immersive layers\nPalette: Soft blues, vibrant pinks, and delicate peach tones, accentuated with real gold leaf\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 41,
-    title: "Golden Rift",
-    price: "$30",
-    description:
-      "“Golden Rift” captures the dramatic beauty of natural forms, with a central golden fissure that suggests both separation and connection within the earth’s layers. This artwork utilizes a sophisticated blend of deep blues and soft creams, accented by the radiant gold that traces a jagged path across the canvas. The rich texture and contrasting colors evoke the majestic forms of geological structures, making this piece a stunning representation of the earth’s dynamic processes.",
-    imgUrl: modern107,
-    images: [modern107],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Simple, elegant frame that complements the artwork’s vibrant aesthetics\nTechnique: Layering of paint and metallic elements to create a textured, three-dimensional effect\nPalette: Deep blues and earthy creams with bold gold accents, creating a visual impact that is both powerful and elegant\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 42,
-    title: "Pastel Flow",
-    price: "$30",
-    description:
-      "“Pastel Flow” is a soothing exploration of color and motion, where soft pastel hues blend seamlessly into each other, creating a gentle and calming visual experience. The artwork features a dynamic array of folds and waves, suggesting the graceful movements of water or air. Rendered in delicate shades of lavender, pink, and blue, this piece is perfect for bringing a touch of tranquility to any contemporary space.",
-    imgUrl: modern116,
-    images: [modern116],
-    details:
-      'Medium: Acrylic on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: None, allowing the vibrant edges to flow seamlessly into the wall\nTechnique: Fluid painting techniques to achieve the soft, flowing effect\nPalette: A serene mix of lavender, pink, and blue, with subtle gradients that enhance the sense of depth\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 43,
-    title: "Elegant Serenity",
-    price: "$30",
-    description:
-      "“Elegant Serenity” is a delicate and refined portrayal of nature’s grace, featuring cranes in flight amidst blooming flowers under a golden moon. This artwork is rich in symbolism and beauty, drawing from traditional Asian art to create a serene tableau in a modern aesthetic. The use of soft pinks, tranquil blues, and subtle golds enhances the sense of peace and harmony, making this piece a sophisticated addition to any collection.",
-    imgUrl: modern211,
-    images: [modern211],
-    details:
-      'Medium: Digital art on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Slim gold frame that complements the elegance of the artwork\nTechnique: Advanced digital techniques to recreate the intricacy of traditional brush strokes\nPalette: A harmonious blend of soft pinks, blues, and creams, with accents of gold that catch the light and draw the eye\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 44,
-    title: "Blossoming Symphony",
-    price: "$30",
-    description:
-      "“Blossoming Symphony” is a masterful depiction of spring’s vitality, encapsulated within a luxurious circular design. This artwork harmonizes classical Asian elements like cherry blossoms, chrysanthemums, and ornamental waves with a modern aesthetic. The color palette is a soft, romantic fusion of pinks, whites, and earth tones, embellished with gold accents that give the piece a sense of depth and elegance. The composition invites the viewer into a serene, blooming garden that transcends the boundaries of time and culture.",
-    imgUrl: modern212,
-    images: [modern212],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Delicate gold frame that enhances the artwork\'s traditional beauty\nTechnique: Advanced digital printing techniques combined with hand-applied finishes to achieve depth and texture\nPalette: A delicate blend of pastel colors with metallic highlights that catch the light and create a dynamic visual experience\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 45,
-    title: "Imperial Dragons",
-    price: "$30",
-    description:
-      "“Imperial Dragons” portrays a powerful scene of celestial dragons amidst tumultuous waves and lush florals, symbolizing strength and prosperity in traditional Asian culture. This piece skillfully blends deep greens, vibrant blues, and gold accents in a stunningly detailed composition that brings ancient myths to life. The dragons, rendered with exceptional detail, appear to soar and twist dynamically across the canvas, embodying the essence of power and divine protection.",
-    imgUrl: modern213,
-    images: [modern213],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Ornate gold frame that matches the majestic theme\nTechnique: High-precision digital art with hand-applied details for texture and depth\nPalette: Dominated by deep greens and blues, with luxurious gold accents creating a regal effect\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 46,
-    title: "Celestial Guardians",
-    price: "$30",
-    description:
-      "“Celestial Guardians” depicts a pair of powerful dragons circling amidst clouds and waves under a golden moon, embodying protection and prosperity. This piece draws on traditional East Asian motifs to convey strength and elegance through its detailed depiction of mythical creatures. The dynamic interaction between the elements of water and air, highlighted by the metallic sheen of gold and deep, rich blues, creates a visual spectacle that celebrates cultural heritage and artistic precision.",
-    imgUrl: modern214,
-    images: [modern214],
-    details:
-      'Medium: Digital art on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Opulent gold frame that complements the grandiose nature of the artwork\nTechnique: State-of-the-art digital rendering techniques to capture fine details and vibrant colors\nPalette: A rich combination of gold, navy blue, and ivory, with textural contrasts that enhance the depth of the composition\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 47,
-    title: "Cosmic Dance",
-    price: "$30",
-    description:
-      "“Cosmic Dance” is a visually striking piece that explores the fluidity of movement and the harmony of colors in a cosmic setting. This artwork features a complex arrangement of circular and curvilinear forms that intertwine and overlap, creating a sense of depth and motion. The color palette is a bold mix of deep blues, vibrant purples, and rich golds, accented with elements that suggest a spatial, almost astronomical theme.",
-    imgUrl: modern6,
-    images: [modern6],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: None, to maintain the illusion of boundlessness\nTechnique: Layering of paints and metallic elements to enhance the three-dimensional effect\nPalette: A cosmic blend of blue, purple, and gold, creating a lively yet harmonious visual experience\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 48,
-    title: "Aqueous Veins",
-    price: "$30",
-    description:
-      "“Aqueous Veins” is an artistic interpretation of the Earth’s waterways and mineral formations, flowing seamlessly across the canvas. This piece blends vibrant shades of teal and green with accents of gold and white, mimicking the natural layering found in geological strata. The gold elements suggest the preciousness of natural resources, while the fluid design represents the ever-changing yet enduring nature of water shaping the landscape.",
-    imgUrl: modern215,
-    images: [modern215],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Minimalistic gold frame that enhances the opulent feel of the artwork\nTechnique: Layering of paints and metallic elements to create depth and a sense of movement\nPalette: A lush combination of greens and blues, with metallic gold and white highlights for a touch of elegance\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
-  {
-    id: 49,
-    title: "Verdant Currents",
-    price: "$30",
-    description:
-      "“Verdant Currents” is an exquisite representation of nature’s fluidity and layered beauty. This piece features sweeping forms that mimic the graceful movements of river currents and wind patterns, rendered in a palette of deep greens, earthy golds, and soft whites. The artwork merges these elements with a sense of organic growth, incorporating textured layers that give the impression of looking into a cross-section of natural elements.",
-    imgUrl: modern216,
-    images: [modern216],
-    details:
-      'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Elegant gold frame that complements the artwork’s rich textures\nTechnique: Advanced layering techniques using both paint and metallic elements to create depth and a tactile quality\nPalette: Rich greens, vibrant golds, and subtle whites, designed to evoke a lush, natural environment\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
-    reviews: [],
-  },
+  // {
+  //   id: 51,
+  //   title: "Verdant Divide",
+  //   price: "$30",
+  //   description:
+  //     "“Verdant Divide” captures the striking contrast between rugged terrains and the gentle flow of nature’s elements. This artwork features a bold vertical line that splits the canvas into two distinct halves, symbolizing a rift or boundary within a serene landscape. One side shows a smooth, flowing design in shades of green, while the other contrasts with rough, golden textures that suggest rocky formations. The piece balances the themes of division and unity, making it a thought-provoking addition to any space.",
+  //   imgUrl: modern106,
+  //   images: [modern106],
+  //   details:
+  //     'Medium: Acrylic on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Modern black frame that enhances the contrast within the artwork\nTechnique: Mixed media techniques to create depth and texture\nPalette: Earthy greens and rich golds, complemented by muted grays for a balanced visual experience\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  // {
+  //   id: 52,
+  //   title: "Golden Confluence",
+  //   price: "$30",
+  //   description:
+  //     "“Golden Confluence” is a profound exploration of natural fusion, where earthly and aquatic elements meet with golden highlights. This painting portrays the dramatic interplay between soft, flowing textures and sharp, gilded fractures, suggesting both conflict and cohesion within the natural world. The use of blues and creams, divided and united by gold, evokes a sense of luxurious yet tumultuous natural processes.",
+  //   imgUrl: modern109,
+  //   images: [modern109],
+  //   details:
+  //     'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Modern, thin gold frame that highlights the artwork’s luxurious elements\nTechnique: Layering of paint and metallic elements to achieve depth and a complex texture\nPalette: Soft creams and vibrant blues with striking gold veins for a dramatic visual impact\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  // {
+  //   id: 53,
+  //   title: "Serenity Waves",
+  //   price: "$30",
+  //   description:
+  //     "“Serenity Waves” is a visual representation of tranquility and fluid motion, inspired by the gentle movements of water. This artwork features soft curves and flowing lines in a soothing palette of greens and golds, creating a calming effect that mimics the peaceful rhythms of nature. The layers of color and texture enhance the depth, suggesting a seamless transition between different natural elements.",
+  //   imgUrl: modern110,
+  //   images: [modern110],
+  //   details:
+  //     'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Minimalist white frame that subtly complements the artwork’s soothing tones\nTechnique: Advanced blending techniques to achieve smooth transitions and a fluid visual texture\nPalette: Soft greens, gentle golds, and hints of cream, designed to evoke a relaxing and peaceful ambiance\nSigned by the artist in the lower right corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  // {
+  //   id: 53,
+  //   title: "Sculpted Aria",
+  //   price: "$30",
+  //   description:
+  //     "“Sculpted Aria” is a masterful expression of motion and rhythm, crafted through complex layering of abstract, organic forms. This artwork elegantly combines elements reminiscent of both wind currents and botanical growth, rendered in a soothing palette of creams, blues, and metallic golds. The design flows across the canvas, creating a visual narrative that speaks to the harmony found in nature’s own artistry.",
+  //   imgUrl: modern10,
+  //   images: [modern10],
+  //   details:
+  //     'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Sleek gold frame that complements the sophisticated nature of the piece\nTechnique: Advanced digital techniques and hand finishing to create depth and a tactile surface\nPalette: Neutral and blue tones with gold accents, providing a luxurious yet serene atmosphere\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  // {
+  //   id: 54,
+  //   title: "Nature's Embrace",
+  //   price: "$30",
+  //   description:
+  //     "“Nature's Embrace” is a triptych that celebrates the intertwined rhythms of natural forms and serene landscapes. This artwork captures the fluid dynamics of wind and water through sinuous shapes and soft, flowing lines. The composition uses a delicate balance of earthy tones and cool blues, segmented across three panels to enhance the sense of continuity and movement. Gold accents provide a touch of elegance, highlighting the intricate details and adding depth to the visual experience.",
+  //   imgUrl: modern1,
+  //   images: [modern1],
+  //   details:
+  //     'Medium: Mixed media on canvas\nDimensions: Three panels, each 48" x 48" (122cm x 122cm)\nFrame: Slim, minimalistic frames that enhance the artwork’s modern aesthetic\nTechnique: Advanced layering and texturing techniques to simulate the natural interplay of elements\nPalette: Earth tones and cool blues with gold highlights, creating a harmonious and calming effect\nSigned by the artist in the lower right corner of the central panel\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
+  // {
+  //   id: 56,
+  //   title: "Tranquil Flow",
+  //   price: "$30",
+  //   description:
+  //     "“Tranquil Flow” is an abstract representation of nature’s effortless continuity and elegance. This artwork melds soothing greens and rich golds in a fluid composition that mimics the gentle movements of water and wind. The golden accents evoke the shimmer of sunlight on water, adding a layer of depth and luxury that enhances the overall sense of tranquility and peace.",
+  //   imgUrl: modern111,
+  //   images: [modern111],
+  //   details:
+  //     'Medium: Mixed media on canvas\nDimensions: 48" x 48" (122cm x 122cm)\nFrame: Slim gold frame that complements the luxurious touches within the artwork\nTechnique: Fluid painting techniques combined with metallic leaf for texture and shine\nPalette: Calming greens and deep golds, creating a soothing visual experience\nSigned by the artist in the lower left corner\nYear of Creation: 2024\nCare Instructions: Keep away from direct sunlight and high humidity. Dust gently with a soft cloth.',
+  //   reviews: [],
+  // },
 ];
