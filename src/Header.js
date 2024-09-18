@@ -7,6 +7,9 @@ import {
   faFacebookF,
   faTwitter,
   faInstagram,
+  faTiktok,
+  faYoutubeSquare,
+  faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
 import "./Header.css"; // Make sure to create a Header.css file for styling
 import logoImg from "./images/logo7.jpg";
@@ -16,7 +19,14 @@ const Header = () => {
     <header className="site-header">
       <nav className="navigation">
         <div className="nav-left">
-          <span className="hidden-text">-------------------</span>{" "}
+          <a
+            href="https://www.youtube.com/@CanadasArtStore"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FontAwesomeIcon icon={faYoutube} className="social-icon" />
+          </a>
+          <span className="hidden-text">-----</span>{" "}
           {/* White text for centering */}
           {/* Use Link for client-side routing */}
           {/* <Link to="/about">About</Link> */}
@@ -42,11 +52,11 @@ const Header = () => {
             <FontAwesomeIcon icon={faInstagram} className="social-icon" />
           </a>
           <a
-            href="https://www.facebook.com/marketplace/profile/100082891729834"
+            href="https://www.tiktok.com/@canadasartstore"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FontAwesomeIcon icon={faFacebookF} className="social-icon" />
+            <FontAwesomeIcon icon={faTiktok} className="social-icon" />
           </a>
           {/* <a href="//twitter.com" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faTwitter} className="social-icon" />
